@@ -23,6 +23,12 @@ nav:
       - legal/articles-of-incorporation/index.md
       - legal/articles-of-incorporation/history.md
   - 회계자료(준비중): "/"
-  - 운영진 정보(준비중): "/"
+  - 운영진:
+    - organizers/index.md
+    - organizers/gen2.md
+    - organizers/gen3.md
+    - organizers/gen4.md
+    - organizers/gen5.md
+    - organizers/gen6.md
   - 회의록(준비중): "/"
   - ubuntu-kr.org: https://ubuntu-kr.org
