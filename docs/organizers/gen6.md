@@ -38,5 +38,7 @@
 
 ## Community Moderation Team	
 
+| 이름 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 |
+| --- | --- | --- | --- | --- | --- | --- |
 | 정서원 | IRC Manager | jswlinux@gmail.com | https://launchpad.net/~jswlinux | Seony | Seony | . | 준회원 |
 | 김영찬 | Mailing Provider | draco@draco.pe.kr | https://launchpad.net/~draco.kr | draco | draco | . | 운영위원 |
