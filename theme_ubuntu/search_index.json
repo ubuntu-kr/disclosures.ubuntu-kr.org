@@ -1,0 +1,10 @@
+[
+    {% for page in pages %}
+        {
+            "title": "{{page.page.title}}",
+            "contents": "{{page.page.content | striptags}}",
+            "contents_html": {{page.page.content | tojson}},
+            "url": "{{config.site_base_url}}{{ page.dest_path }}"
+        }{{ ", " if not loop.last else "" }}
+    {% endfor %}
+]

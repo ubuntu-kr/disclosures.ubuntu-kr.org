@@ -1,0 +1,28 @@
+site_name: 우분투한국커뮤니티 공시
+site_name_short: 공시
+site_base_url: "/"
+copyright: |
+  © 2021-2023 우분투 한국 커뮤니티 (우분투 한국 로컬 커뮤니티 팀).
+  별도 고지가 있는 경우를 제외하고, 웹 사이트 소스코드는 MIT, 웹 사이트의 컨텐츠는 CC BY-SA 4.0 라이선스로 이용 가능합니다.
+  Ubuntu 및 Canonical 은 Canonical Ltd. 의 등록 상표입니다.
+repo_url: https://github.com/ubuntu-kr/disclosures.ubuntu-kr.org
+repo_name: ubuntu-kr/disclosures.ubuntu-kr.org
+contact_email: contact@ubuntu-kr.org
+theme:
+    name: null
+    custom_dir: 'theme_ubuntu/'
+    static_templates:
+      - "search_index.json"
+plugins:
+    - search
+nav:
+  - 홈: index.md
+  - 정관 및 세칙: 
+    - legal/index.md
+    - 정관:
+      - legal/articles-of-incorporation/index.md
+      - legal/articles-of-incorporation/history.md
+  - 회계자료(준비중): "/"
+  - 운영진 정보(준비중): "/"
+  - 회의록(준비중): "/"
+  - ubuntu-kr.org: https://ubuntu-kr.org
