@@ -1,5 +1,7 @@
 # 우분투한국커뮤니티 공시
 
+[![Deploy Website](https://github.com/ubuntu-kr/disclosures.ubuntu-kr.org/actions/workflows/deploy.yml/badge.svg)](https://github.com/ubuntu-kr/disclosures.ubuntu-kr.org/actions/workflows/deploy.yml)
+
 우분투한국커뮤니티 운영 관련 중요 자료(회계자료, 각종 규정, 운영진 현황, 회의록 등)을 공개하는 웹사이트 입니다.
 
 - 회계자료
