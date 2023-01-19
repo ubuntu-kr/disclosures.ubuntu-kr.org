@@ -25,21 +25,21 @@
 
 ## Web Service Team
 
-| 이름 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 |
+| 이름 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 | 정관상 회원 구분 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 정규석 | Infrastructure Administrator | epdlemflaj@gmail.com | https://launchpad.net/~epdlemflaj | jgyuseok | jgyuseok | . |	준회원 |
-| 조채연 | Infrastructure Administrator | stoutcho21@gmail.com | https://launchpad.net/~stoutcho21 | 조채연 | 조채연 | . | 준회원 |
+| 조채연 | Infrastructure Administrator | stoutcho21@gmail.com | https://launchpad.net/~stoutcho21 | 조채연 | 조채연 | . | 운영위원 |
 
 ## Research & Contribution Team	
 
-| 이름 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 |
+| 이름 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 | 정관상 회원 구분 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 신민욱 | L10n team owner | minwook0106@gmail.com | https://launchpad.net/~minwook-shin | shminwook | Ghg | . | 준회원 |
-| 김광연 | Hanjp-IM Project Maintainer | 	ghemool123@gmail.com| https://launchpad.net/~horary | onting | Onting | . | 준회원 |
+| 김광연 | Hanjp-IM Project Maintainer | ghemool123@gmail.com| https://launchpad.net/~horary | onting | Onting | . | 정회원 |
 
 ## Community Moderation Team	
 
-| 이름 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 |
+| 이름 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 | 정관상 회원 구분 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 정서원 | IRC Manager | jswlinux@gmail.com | https://launchpad.net/~jswlinux | Seony | Seony | . | 준회원 |
 | 김영찬 | Mailing Provider | draco@draco.pe.kr | https://launchpad.net/~draco.kr | draco | draco | . | 운영위원 |
