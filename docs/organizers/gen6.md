@@ -15,7 +15,7 @@
 | 이름 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 | 정관상 회원 구분 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 한상곤 | Event Organizer | sigmadream@gmail.com | https://launchpad.net/~sigmadream | sigmadream | Sigmadream | . | 운영위원 |
-| 조민성 | Event Organizer | mldd.kor@gmail.com | https://launchpad.net/~mscho7969 | . | 2022.11.30. 합류 | 준회원 |
+| 조민성 | Event Organizer | mldd.kor@gmail.com | https://launchpad.net/~mscho7969 | . | . | 2022.11.30. 합류 | 준회원 |
 
 ## Public Relations & Partnerships
 
