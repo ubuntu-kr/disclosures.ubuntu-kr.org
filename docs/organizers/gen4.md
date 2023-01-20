@@ -4,19 +4,19 @@
 
 | 이름 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 한영빈 | Leader | youngbin@ubuntu-kr.org | https://launchpad.net/~sukso96100 | sukso96100 | sukso96100 | 2018.09.15 군 입대로 인해 중간 사퇴. |
-| 윤건영 | Vice Leader, Forum master, Event manager | dry8r3ad@ubuntu-kr.org | https://launchpad.net/~dry8r3ad | Dry8r3aD | Dry8r3aD | 2018.09.16 부터 대표 권한대행 |
-| 김정민 | Contactor2 | tabayoichi@gmail.com | https://launchpad.net/~tabayoichi | taba | X | . |
-| 신민욱 | Wiki Provider, Contribution team - l10n | minwook0106@gmail.com | https://launchpad.net/~minwook-shin | shminwook | Ghg | . |
-| 김진석 | Contribution team - Packaging | jskim@ubuntu-kr.org | https://launchpad.net/~fmowl | fmowl10 | fmowl | . |
-| 강동호 | Infrastructure Manager | 	gongdongho12@gmail.com | https://launchpad.net/~dongho1596 | dongho1596 | Dongho1596 | 2018.03.31 임명 |
-| 정서원 | IRC Manager | jswlinux@gmail.com | https://launchpad.net/~jswlinux | Seony | Seony | . |
-| 김영찬 | Mailing Provider | draco@draco.pe.kr | https://launchpad.net/~draco.kr | draco | X | . |
-| 한상곤 | Contents Creator | we@ubuntu-kr.org | https://launchpad.net/~sigmadream | sigmadream | Sigmadream | . |	
-| 배준현 | Event manager | praisedguy@gmail.com | https://launchpad.net/~praisedguy | . | . | 2018.05.15 임명 |
-| 장태진 | Sub Event manager | jtjisgod@gmail.com | https://launchpad.net/~jtjisgod| . | . | . |	 
-| 장태희 | Advisor | jang@ubuntu-kr.org | https://launchpad.net/~jang0913 | janghe11 | janghe11 | . |
-| 송현도 | Advisor | me@drake.kr | https://launchpad.net/~drakekr | drake_kr | Wiki | . |
+| 한영빈 | Leader | youngbin@ubuntu-kr.org | [sukso96100](https://launchpad.net/~sukso96100) | sukso96100 | sukso96100 | 2018.09.15 군 입대로 인해 중간 사퇴. |
+| 윤건영 | Vice Leader, Forum master, Event manager | dry8r3ad@ubuntu-kr.org | [dry8r3ad](https://launchpad.net/~dry8r3ad) | Dry8r3aD | Dry8r3aD | 2018.09.16 부터 대표 권한대행 |
+| 김정민 | Contactor2 | tabayoichi@gmail.com | [tabayoichi](https://launchpad.net/~tabayoichi) | taba | X | . |
+| 신민욱 | Wiki Provider, Contribution team - l10n | minwook0106@gmail.com | [minwook-shin](https://launchpad.net/~minwook-shin) | shminwook | Ghg | . |
+| 김진석 | Contribution team - Packaging | jskim@ubuntu-kr.org | [fmowl](https://launchpad.net/~fmowl) | fmowl10 | fmowl | . |
+| 강동호 | Infrastructure Manager | 	gongdongho12@gmail.com | [dongho1596](https://launchpad.net/~dongho1596) | dongho1596 | Dongho1596 | 2018.03.31 임명 |
+| 정서원 | IRC Manager | jswlinux@gmail.com | [jswlinux](https://launchpad.net/~jswlinux) | Seony | Seony | . |
+| 김영찬 | Mailing Provider | draco@draco.pe.kr | [draco.kr](https://launchpad.net/~draco.kr) | draco | X | . |
+| 한상곤 | Contents Creator | we@ubuntu-kr.org | [sigmadream](https://launchpad.net/~sigmadream) | sigmadream | Sigmadream | . |	
+| 배준현 | Event manager | praisedguy@gmail.com | [praisedguy](https://launchpad.net/~praisedguy) | . | . | 2018.05.15 임명 |
+| 장태진 | Sub Event manager | jtjisgod@gmail.com | [jtjisgod](https://launchpad.net/~jtjisgod)| . | . | . |	 
+| 장태희 | Advisor | jang@ubuntu-kr.org | [jang0913](https://launchpad.net/~jang0913) | janghe11 | janghe11 | . |
+| 송현도 | Advisor | me@drake.kr | [drakekr](https://launchpad.net/~drakekr) | drake_kr | Wiki | . |
 
 ## 대전 지역팀
 대전 지역 우분투 커뮤니티 활성화를 위해 하위 팀으로 개설된 팀 입니다. 김어진 지역팀 대표를 중심으로 활동하였습니다.
@@ -24,7 +24,7 @@
 
 | 이름 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 김어진 | Leader | kimuj5090@gmail.com | https://launchpad.net/~kimuj5090 | . | . | . |
-| 신근수 | 운영진 | cyclone5989@gmail.com | https://launchpad.net/~sksno1 | . | . | . |
-| 이용재 | 운영진 | dididy@knou.ac.kr| https://launchpad.net/~dididy | taba | . | . |
-| 최소영 | 운영진 | ruby020415@naver.com| https://launchpad.net/~menboong44 | . | . |
+| 김어진 | Leader | kimuj5090@gmail.com | [kimuj5090](https://launchpad.net/~kimuj5090) | . | . | . |
+| 신근수 | 운영진 | cyclone5989@gmail.com | [sksno1](https://launchpad.net/~sksno1) | . | . | . |
+| 이용재 | 운영진 | dididy@knou.ac.kr| [dididy](https://launchpad.net/~dididy) | taba | . | . |
+| 최소영 | 운영진 | ruby020415@naver.com| [menboong44](https://launchpad.net/~menboong44) | . | . |
