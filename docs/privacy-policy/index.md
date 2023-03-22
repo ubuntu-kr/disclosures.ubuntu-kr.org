@@ -113,4 +113,5 @@
 	
 ## 제15조(개인정보 처리방침 변경)		
 1. 이 개인정보처리방침은 2023년 3월 23일 부터 적용됩니다.		
-2. 이전의 개인정보 처리방침은 아래에서 확인하실 수 있습니다.			
+2. 이전의 개인정보 처리방침은 아래에서 확인하실 수 있습니다.
+  - https://github.com/ubuntu-kr/disclosures.ubuntu-kr.org/commits/main/docs/privacy-policy/index.md
