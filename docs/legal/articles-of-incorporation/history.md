@@ -10,7 +10,7 @@
 - 제31조 (개정, 용어변경)
 
 ### 관련 문서
-- [정관 PDF 파일](./articles-of-incorporation-2023-03-26.pdf)
+- [정관 PDF 파일](./articles-of-incorporation-2023-03-25.pdf)
 - [2023년 정기총회 회의록](/meetings/rga2023/2023_정기총회_회의록.pdf)
 
 ## 2022년 05월 11일 개정
