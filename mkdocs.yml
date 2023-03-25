@@ -23,6 +23,8 @@ nav:
     - 정관:
       - legal/articles-of-incorporation/index.md
       - legal/articles-of-incorporation/history.md
+    - 선거관리규약:
+      - legal/election-bylaw/index.md
   - 개인정보처리방침: privacy-policy/index.md
   - 회계자료(준비중): "/"
   - 운영진:
