@@ -30,9 +30,9 @@ nav:
       - legal/membership-fee-regulation/index.md
       - legal/membership-fee-regulation/history.md
   - 개인정보처리방침: privacy-policy/index.md
-  - 회계자료(준비중): 
+  - 회계자료: 
     - finance/index.md
-    - 2022:
+    - "2022":
       - finance/2022/index.md
   - 운영진:
     - organizers/index.md
