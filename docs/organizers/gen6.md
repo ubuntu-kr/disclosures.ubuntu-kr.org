@@ -28,7 +28,7 @@
 | 이름 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 | 정관상 회원 구분 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 정규석 | Infrastructure Administrator | epdlemflaj@gmail.com | [~epdlemflaj](https://launchpad.net/~epdlemflaj) | jgyuseok | jgyuseok | . |	준회원 |
-| 조채연 | Infrastructure Administrator | stoutcho21@gmail.com | [~stoutcho21](https://launchpad.net/~stoutcho21) | 조채연 | 조채연 | . | 운영위원 |
+| 조채연 | Infrastructure Administrator | stoutcho21@gmail.com | [~stoutcho21](https://launchpad.net/~stoutcho21) | 조채연 | 조채연 | . | 운영위원 (2023. 3. 25 ~ 2025. 3. 24.) |
 
 ## Research & Contribution Team	
 
