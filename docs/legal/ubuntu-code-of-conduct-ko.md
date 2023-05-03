@@ -1,5 +1,5 @@
 # 우분투 행동 강령 v2.0 (한국어)
-_원문: http://www.ubuntu.com/about/about-ubuntu/conduct_
+_원문: https://ubuntu.com/community/ethos/code-of-conduct
 
 우분투는 서로에게 인류애를 보여줍니다. 단어 자체는 인간이라는 정신을 포착합니다.
 
