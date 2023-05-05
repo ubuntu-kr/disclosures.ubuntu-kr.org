@@ -16,6 +16,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 한상곤 | Event Organizer | sigmadream@gmail.com | [~sigmadream](https://launchpad.net/~sigmadream) | sigmadream | Sigmadream | . | 운영위원 |
 | 조민성 | Event Organizer | mldd.kor@gmail.com | [~mscho7969](https://launchpad.net/~mscho7969) | . | . | 2022.11.30. 합류 | 정회원 |
+| 추영욱 | Event Organizer | choo121600@gmail.com | [~choo121600](https://launchpad.net/~choo121600) | choo121600 | . | 2023.04.29. 합류 | 정회원 |
+| 문준상 | Event Organizer | hybs310@naver.com | [~hybs310](https://launchpad.net/~hybs310) | junmoon | . | 2023.04.29. 합류 | 정회원 |
 
 ## Public Relations & Partnerships
 
@@ -36,6 +38,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 신민욱 | L10n team owner | minwook0106@gmail.com | [~minwook-shin](https://launchpad.net/~minwook-shin) | shminwook | Ghg | . | 준회원 |
 | 김광연 | Hanjp-IM Project Maintainer | ghemool123@gmail.com| [~horary](https://launchpad.net/~horary) | onting | Onting | . | 정회원 |
+| 정회형 | L10n team Reviewer | commaniakr@gmail.com | [~hothead-jung](https://launchpad.net/~hothead-jung) | hothead-jung | . | 2023.04.29. 합류 | 정회원 |
 
 ## Community Moderation Team	
 
