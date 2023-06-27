@@ -17,7 +17,7 @@
 | 한상곤 | Event Organizer | sigmadream@gmail.com | [~sigmadream](https://launchpad.net/~sigmadream) | sigmadream | Sigmadream | . | 운영위원 |
 | 조민성 | Event Organizer | mldd.kor@gmail.com | [~mscho7969](https://launchpad.net/~mscho7969) | . | . | 2022.11.30. 합류 | 정회원 |
 | 추영욱 | Event Organizer | choo121600@gmail.com | [~choo121600](https://launchpad.net/~choo121600) | choo121600 | . | 2023.04.29. 합류 | 정회원 |
-| 문준상 | Event Organizer | hybs310@naver.com | [~hybs310](https://launchpad.net/~hybs310) | junmoon | . | 2023.04.29. 합류 | 정회원 |
+| 문준상 | Event Organizer | mun.js@aol.com | [~moon-js](https://launchpad.net/~moon-js) | junmoon | . | 2023.04.29. 합류 | 정회원 |
 
 ## Public Relations & Partnerships
 
