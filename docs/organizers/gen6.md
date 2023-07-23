@@ -16,8 +16,8 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 한상곤 | Event Organizer | sigmadream@gmail.com | [~sigmadream](https://launchpad.net/~sigmadream) | sigmadream | Sigmadream | . | 운영위원 |
 | 조민성 | Event Organizer | mldd.kor@gmail.com | [~mscho7969](https://launchpad.net/~mscho7969) | . | . | 2022.11.30. 합류 | 정회원 |
-| 추영욱 | Event Organizer | choo121600@gmail.com | [~choo121600](https://launchpad.net/~choo121600) | choo121600 | . | 2023.04.29. 합류 | 정회원 |
-| 문준상 | Event Organizer | mun.js@aol.com | [~moon-js](https://launchpad.net/~moon-js) | junmoon | . | 2023.04.29. 합류 | 정회원 |
+| 추영욱 | Event Organizer | choo121600@gmail.com | [~choo121600](https://launchpad.net/~choo121600) | choo121600 | . | 2023. 04. 29. 합류 | 정회원 |
+| 문준상 | Event Organizer | mun.js@aol.com | [~moon-js](https://launchpad.net/~moon-js) | junmoon | . | 2023. 04. 29. 합류 | 정회원 |
 
 ## Public Relations & Partnerships
 
@@ -38,7 +38,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 신민욱 | L10n team owner | minwook0106@gmail.com | [~minwook-shin](https://launchpad.net/~minwook-shin) | shminwook | Ghg | . | 준회원 |
 | 김광연 | Hanjp-IM Project Maintainer | ghemool123@gmail.com| [~horary](https://launchpad.net/~horary) | onting | Onting | . | 정회원 |
-| 정회형 | L10n team Reviewer | commaniakr@gmail.com | [~hothead-jung](https://launchpad.net/~hothead-jung) | hothead-jung | . | 2023.04.29. 합류 | 정회원 |
+| 정회형 | L10n team Reviewer | commaniakr@gmail.com | [~hothead-jung](https://launchpad.net/~hothead-jung) | hothead-jung | . | 2023. 04. 29. 합류 | 정회원 |
 
 ## Community Moderation Team	
 
@@ -46,3 +46,4 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 정서원 | IRC Manager | jswlinux@gmail.com | [~jswlinux](https://launchpad.net/~jswlinux) | Seony | Seony | . | 준회원 |
 | 김영찬 | Mailing Provider | draco@draco.pe.kr | [~draco.kr](https://launchpad.net/~draco.kr) | draco | draco | . | 운영위원 |
+| 차의서 | Forum Moderator | zeroday0619_dev@outlook.com | [~devzeroday0619](https://launchpad.net/~devzeroday0619) | draco | zeroday0619 | 2023. 04. 29. 합류(수습), 2023. 07. 22. 정회원 전환 | 정회원 |
