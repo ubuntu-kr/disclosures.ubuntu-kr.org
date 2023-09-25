@@ -46,5 +46,6 @@ nav:
     - organizers/gen6.md
   - 회의록: 
     - meetings/index.md
+    - meetings/ega20230918/index.md
     - meetings/rga2023/index.md
   - ubuntu-kr.org: https://ubuntu-kr.org
