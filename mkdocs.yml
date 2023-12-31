@@ -35,6 +35,8 @@ nav:
     - privacy-policy/uck23.md
   - 회계자료: 
     - finance/index.md
+    - "2023":
+      - finance/2023/index.md
     - "2022":
       - finance/2022/index.md
   - 운영진:
