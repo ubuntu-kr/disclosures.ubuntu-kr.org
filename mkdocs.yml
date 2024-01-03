@@ -18,13 +18,13 @@ plugins:
     - search
 nav:
   - 홈: index.md
-  - 커뮤니티 기풍(Ethos):
-    - ethos/index.md
-    - ethos/code-of-conduct.md
-    - ethos/diversity.md
-    - ethos/mission.md
-  - 정관 및 세칙: 
+  - 정관/세칙/행동강령: 
     - legal/index.md
+    - 행동강령 및 관습:
+      - legal/ethos/index.md
+      - legal/ethos/code-of-conduct.md
+      - legal/ethos/diversity.md
+      - legal/ethos/mission.md
     - 정관:
       - legal/articles-of-incorporation/index.md
       - legal/articles-of-incorporation/history.md
