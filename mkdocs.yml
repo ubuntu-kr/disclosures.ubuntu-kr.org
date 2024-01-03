@@ -18,6 +18,11 @@ plugins:
     - search
 nav:
   - 홈: index.md
+  - 커뮤니티 기풍(Ethos):
+    - ethos/index.md
+    - ethos/code-of-conduct.md
+    - ethos/diversity.md
+    - ethos/mission.md
   - 정관 및 세칙: 
     - legal/index.md
     - 정관:
