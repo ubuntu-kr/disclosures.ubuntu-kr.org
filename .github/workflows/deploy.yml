@@ -40,6 +40,8 @@ jobs:
         run: pip install -r requirements.txt
       - name: Build with MkDocs
         run: mkdocs build
+      - name: Generate Search Index
+        run: npx pagefind --site site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:

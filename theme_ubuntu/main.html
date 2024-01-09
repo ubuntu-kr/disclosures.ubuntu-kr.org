@@ -9,6 +9,8 @@
     <link rel="stylesheet" href="{{ path | url }}" />
     {% endfor %}
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <script src="/pagefind/pagefind-ui.js"></script>
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="57x57" href="{{config.site_base_url}}images/apple-icon-57x57.png">
@@ -79,14 +81,15 @@
     <script>var base_url = '{{ base_url }}';</script>
     <section id="search-docs" class="p-strip--light is-shallow">
         <div class="row">
-            <form class="p-search-box u-no-margin--bottom" onsubmit='return false'>
+            <!-- <form class="p-search-box u-no-margin--bottom" onsubmit='return false'>
                 <input type="text" class="p-search-box__input" name="q" placeholder="검색..." required=""
                     autocomplete="on" id="search-query">
                 <button type="reset" class="p-search-box__reset" name="close"><i
                         class="p-icon--close">Close</i></button>
                 <button type="submit" class="p-search-box__button" name="submitSearch"><i
                         class="p-icon--search">Search</i></button>
-            </form>
+            </form> -->
+            <div id="search"></div>
         </div>
         <div class="row" style="margin-top: 16px; max-height: 60vh; overflow-y: auto;">
             <ul class="p-list--divided" id="search-results">
@@ -220,6 +223,11 @@
             }
             resultTarget.innerHTML = resultHtml;
         })
+    </script>
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            new PagefindUI({ element: "#search", showSubResults: true });
+        });
     </script>
     {% for path in config.extra_javascript %}
     <script src="{{ path | url }}"></script>
