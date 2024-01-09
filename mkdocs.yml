@@ -12,6 +12,7 @@ contact_email: contact@ubuntu-kr.org
 theme:
     name: null
     custom_dir: 'theme_ubuntu/'
+    locale: ko
     static_templates:
       - "search_index.json"
 plugins:
