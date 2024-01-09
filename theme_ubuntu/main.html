@@ -135,11 +135,11 @@
                             <a>{{ nav_item.title }}</a>
                             <ul>
                                 {% for nav_item in nav_item.children %}
-                                <li><a href="{{ nav_item.url|url }}">{{ nav_item.title }}</a></li>
+                                <li><a href="{{ nav_item.url|url }}" {% if nav_item.active %} class="is-active" {% endif %}>{{ nav_item.title }}</a></li>
                                 {% endfor %}
                             </ul>
                             {% else %}
-                            <a href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
+                            <a href="{{ nav_item.url|url }}" {% if nav_item.active %} class="is-active" {% endif %}>{{ nav_item.title }}</a>
                             {% endif %}
                         </li>
                         {% endfor %}
