@@ -8,7 +8,6 @@
     {% for path in config.extra_css %}
     <link rel="stylesheet" href="{{ path | url }}" />
     {% endfor %}
-    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
     <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
     <script src="/pagefind/pagefind-ui.js"></script>
 
@@ -81,14 +80,6 @@
     <script>var base_url = '{{ base_url }}';</script>
     <section id="search-docs" class="p-strip--light is-shallow">
         <div class="row">
-            <!-- <form class="p-search-box u-no-margin--bottom" onsubmit='return false'>
-                <input type="text" class="p-search-box__input" name="q" placeholder="검색..." required=""
-                    autocomplete="on" id="search-query">
-                <button type="reset" class="p-search-box__reset" name="close"><i
-                        class="p-icon--close">Close</i></button>
-                <button type="submit" class="p-search-box__button" name="submitSearch"><i
-                        class="p-icon--search">Search</i></button>
-            </form> -->
             <div id="search"></div>
         </div>
         <div class="row" style="margin-top: 16px; max-height: 60vh; overflow-y: auto;">
@@ -182,48 +173,6 @@
         </nav>
     </footer>
 
-    <script>
-        let fuse = undefined;
-
-        async function initSearchIndex() {
-            let res = await fetch('{{config.site_base_url}}search_index.json');
-            let data = await res.json();
-            fuse = new Fuse(data, { // fuse.js options; check fuse.js website for details
-                shouldSort: true,
-                location: 0,
-                distance: 100,
-                threshold: 0.4,
-                minMatchCharLength: 2,
-                keys: [
-                    'title',
-                    'contents',
-                    'contents_html'
-                ]
-            });
-        }
-        document.getElementById("search-query").addEventListener("keydown", function (event) {
-            console.log(event.target.value);
-            if (!fuse) {
-                initSearchIndex();
-            }
-            let result = fuse.search(event.target.value);
-            let resultTarget = document.getElementById("search-results");
-            let resultHtml = "";
-            console.log(result)
-            for (let i = 0; i < result.length; i++) {
-                resultHtml +=
-                    `<li>
-                    <a href="${result[i].item.url}">
-                        <p>
-                            <b>${result[i].item.title}</b><br/>
-                            ${result[i].item.contents.substring(0, 100)}...
-                        </p>
-                    </a>
-                </li>`;
-            }
-            resultTarget.innerHTML = resultHtml;
-        })
-    </script>
     <script>
         window.addEventListener('DOMContentLoaded', (event) => {
             new PagefindUI({ element: "#search", showSubResults: true });
