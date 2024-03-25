@@ -99,7 +99,7 @@
         - 2027년 UbuCon Asia 포항 유치 및 개최를 위한 양해각서(MOU) 체결
         - 포항 내 소규모 우분투 그룹 스터디나 세미나 등 활동 파일럿 성격으로 수행
     - 부산
-        - buntu 24.04 LTS Install Party @ 04.27
+        - Ubuntu 24.04 LTS Install Party @ 04.27
         - Ubuntu workshop in Busan @ 07.06
         - Ubuntu 24.10 Release Party and Install Fest in Busan @ 11.16
     - 대구
