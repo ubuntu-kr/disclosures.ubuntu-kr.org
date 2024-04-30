@@ -36,8 +36,6 @@ nav:
     - 회비규정:
       - legal/membership-fee-regulation/index.md
       - legal/membership-fee-regulation/history.md
-    - 행동강령:      
-      - legal/ubuntu-code-of-conduct-ko.md
   - 개인정보처리방침: 
     - privacy-policy/index.md
     - privacy-policy/online.md
