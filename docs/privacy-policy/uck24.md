@@ -127,6 +127,6 @@
 ※ 행정심판에 대해 자세한 사항은 중앙행정심판위원회(www.simpan.go.kr) 홈페이지를 참고하시기 바랍니다.		
 	
 ## 제15조(개인정보 처리방침 변경)		
-1. 이 개인정보처리방침은 2024년 4월 7일 부터 적용됩니다.		
+1. 이 개인정보처리방침은 2024년 5월 1일 부터 적용됩니다.		
 2. 이전의 개인정보 처리방침은 아래에서 확인하실 수 있습니다.			
     - https://github.com/ubuntu-kr/disclosures.ubuntu-kr.org/blob/main/docs/privacy-policy/uck24.md
