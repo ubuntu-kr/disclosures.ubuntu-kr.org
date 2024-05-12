@@ -2,19 +2,22 @@
 
 > 본 문서는 번역된 것이며, 영어 원문은 [여기](https://ubuntu.com/community/ethos)에서 확인 가능합니다.
 
-Ubuntu is more than just a name. It embodies the very essence of our community. Deriving from an ancient African word that means “humanity to others”, our mission is and has always been to spread this spirit to the software world.
+우분투는 단순한 이름이 아닙니다. 이는 우리 커뮤니티의 본질을 구현합니다. “타인에 대한 인간성”을 의미하는 고대 아프리카 단어에서 유래한 우리의 사명은 이 정신을 소프트웨어의 세계로 전파하는 것입니다.
 
-## Ubuntu Code of Conduct
-Members of the Ubuntu Community follow a simple code of conduct that helps ensure our community stays healthy, stable and remains a place for collaboration and prosperity. For those wanting to join in our efforts, it is crucial to learn and embody these important principles.
+## 우분투 행동 강령
 
-[Read the Ubuntu Code of Conduct](./code-of-conduct)
+우분투 커뮤니티의 구성원은 커뮤니티가 건강하고, 안정적이며, 협력과 번영을 위한 장소로 유지되도록 돕는 간단한 행동 강령을 따릅니다. 우리의 노력에 동참하기를 원하는 사람들에게는 이러한 중요한 원칙을 배우고 구현하는 것이 중요합니다.
 
-## Diversity Policy
-Our community gains strength from its diversity and actively encourages everyone to participate in the project. We are committed to fostering a community that everyone feels proud to be a part of and one that is built around a mutual respect for one another.
+[Ubuntu 행동 강령 읽기](./code-of-conduct)
 
-[Discover how we support and honour our diversity](./diversity)
+## 다양성 정책
 
-## Our Mission
-The mission for Ubuntu is both social and economic. We believe that bringing free software to the widest audience will empower individuals and communities to innovate, experiment and grow. It is through the great equalizing quality of open source that we seek to spread the spirit of Ubuntu around the world.
+우리 커뮤니티는 다양성을 통해 힘을 얻고 모든 사람이 프로젝트에 참여하도록 적극적으로 장려합니다. 우리는 모두가 그 일원임을 자랑스럽게 생각하고 서로에 대한 상호 존중을 바탕으로 구축된 커뮤니티를 육성하기 위해 최선을 다하고 있습니다.
 
-[Learn the guiding tenets of the Ubuntu Mission](./mission)
+[우리가 어떻게 다양성을 지지하고 존중하는지 알아보세요](./diversity)
+
+## 우리의 사명
+
+우분투의 사명은 사회적이고 경제적입니다. 우리는 자유 소프트웨어를 가장 광범위한 사용자에게 제공함으로써 개인과 커뮤니티가 혁신하고 실험하며 성장할 수 있다고 믿습니다. 우리는 오픈 소스의 뛰어난 품질의 균일화를 통해 우분투의 정신을 전세계에 전파하는 것을 목표로 하고 있습니다.
+
+[우분투 사명의 기본 원칙을 알아보세요](./mission)
