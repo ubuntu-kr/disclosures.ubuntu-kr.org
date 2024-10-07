@@ -21,7 +21,7 @@
 | 이태용 | Event Organizer | tyl1996@naver.com | [~tyl1996](https://launchpad.net/~tyl1996) | tae | . | 2024. 02. 22. 합류 | 정회원 |
 | 윤정민 | Event Organizer | lego37yoon@outlook.com | [~lego37yoon-l](https://launchpad.net/~lego37yoon-l) | paperbox | . | 2024. 02. 22. 합류 | 정회원 |
 | 이용현 | Event Organizer | dldydgus1995@naver.com | [~yonghyun-yi](https://launchpad.net/~yonghyun-yi) | dldydgus1995 | . | 2024. 02. 22. 합류 | 정회원 |
-| 임상빈 | Event Organizer | mcpe9869@gmail.com | [~vinylstage](https://launchpad.net/~vinylstage) | . | . | 2024. 10. 04. 합휴 | . |
+| 임상빈 | Event Organizer | mcpe9869@gmail.com | [~vinylstage](https://launchpad.net/~vinylstage) | 98sangbin | . | 2024. 10. 04. 합류 | 정회원 |
 
 
 ## Public Relations & Partnerships
