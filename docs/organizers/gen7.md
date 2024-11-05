@@ -20,7 +20,7 @@
 | 권소연 | Event Organizer | annkwon1123@gmail.com | [~annkwon1123](https://launchpad.net/~annkwon1123) | annkwon1123 | . | 2024. 02. 22. 합류 | 정회원 |
 | 이태용 | Event Organizer | tyl1996@naver.com | [~tyl1996](https://launchpad.net/~tyl1996) | tae | . | 2024. 02. 22. 합류 | 정회원 |
 | 윤정민 | Event Organizer | lego37yoon@outlook.com | [~lego37yoon-l](https://launchpad.net/~lego37yoon-l) | paperbox | . | 2024. 02. 22. 합류 | 정회원 |
-| 이용현 | Event Organizer | dldydgus1995@naver.com | [~yonghyun-yi](https://launchpad.net/~yonghyun-yi) | dldydgus1995 | . | 2024. 02. 22. 합류 | 정회원 |
+| 이용현 | Event Organizer | dldydgus1995@naver.com | [~yonghyun-yi](https://launchpad.net/~yonghyun-yi) | dldydgus1995 | . | 2024. 02. 22. 합류 2024. 11. 05. 운영진 활동 종료 | 준회원 (운영진이 아닌 커뮤니티 회원) |
 | 임상빈 | Event Organizer | mcpe9869@gmail.com | [~vinylstage](https://launchpad.net/~vinylstage) | 98sangbin | . | 2024. 10. 04. 합류 | 정회원 |
 
 
