@@ -34,7 +34,7 @@ jobs:
         uses: actions/configure-pages@v1
       - uses: actions/setup-python@v4
         with:
-          python-version: '3.10' 
+          python-version: '3.12' 
           cache: 'pip'
       - name: Install packages
         run: pip install -r requirements.txt
@@ -43,7 +43,7 @@ jobs:
       - name: Generate Search Index
         run: npx pagefind --site site
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./site
   # Deployment job
@@ -56,4 +56,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
