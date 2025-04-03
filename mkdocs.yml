@@ -43,6 +43,8 @@ nav:
     - privacy-policy/uck24.md
   - 회계자료: 
     - finance/index.md
+    - "2024":
+      - finance/2024/index.md
     - "2023":
       - finance/2023/index.md
     - "2022":
