@@ -46,4 +46,4 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 정서원 | IRC Manager | jswlinux@gmail.com | [~jswlinux](https://launchpad.net/~jswlinux) | Seony | Seony | . | 준회원 |
 | 김영찬 | Mailing Provider | draco@draco.pe.kr | [~draco.kr](https://launchpad.net/~draco.kr) | draco | draco | . | 운영위원 |
-| 차의서 | Forum Moderator | zeroday0619_dev@outlook.com | [~devzeroday0619](https://launchpad.net/~devzeroday0619) | zeroday0619 | zeroday0619 | 2023. 04. 29. 합류(수습), 2023. 07. 22. 정회원 전환 | 정회원 |
+| 차의서 | Forum Moderator | zeroday0619@ubuntu-kr.org | [~euiseocha](https://launchpad.net/~euiseocha) | zeroday0619 | zeroday0619 | 2023. 04. 29. 합류(수습), 2023. 07. 22. 정회원 전환 | 정회원 |
