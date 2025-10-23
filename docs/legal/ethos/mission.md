@@ -38,8 +38,8 @@ Without open source, many of the systems and applications we take for granted si
 
 In the spirit of open source, Ubuntu is absolutely free to download, use, share and improve. Please note, however, that the Ubuntu name and logo are protected trademarks, subject to our [intellectual property rights policy](https://ubuntu.com/legal/intellectual-property-policy).
 
-## 오픈소스는 무엇인가요?  
-There are 10 core principles of open-source software:
+## 오픈 소스는 무엇인가요?  
+오픈 소스 소프트웨어의 10 가지 핵심 원칙입니다:  
 
 1. Software must be free to redistribute.
 2. The program must include source code.
@@ -53,6 +53,7 @@ There are 10 core principles of open-source software:
 10. The licence must be technology-neutral.
 
 [Take a look at the Open Source Initiative’s definition of open-source software for a more detailed explanation](https://opensource.org/docs/definition.php).
+
 
 
 
