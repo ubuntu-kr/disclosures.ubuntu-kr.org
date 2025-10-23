@@ -15,43 +15,41 @@ We aim to be the platform which leads in achieving these ideals. We work to the 
 ## To accelerate innovation and underpin operations
 We make the world better by enabling anyone, anywhere, to pursue their ambitions regardless of their resources. It is important to us that a researcher in the furthest corner of the world from Silicon Valley can use Ubuntu on exactly the same terms as a startup in San Francisco, to build something that nobody has imagined before. It’s also important to us that Ubuntu enables those upstarts to grow, from garage visionaries to galactic stars, and Canonical serves to provide enterprise capabilities and services for Ubuntu users.
 
-## Free software
-Our preferred software licenses are ‘free software’ and always will be. Free software gives everyone the freedom to use it however they want and share with whoever they like. This freedom has huge benefits. At one end of the spectrum it enables the Ubuntu community to grow and share its collective experience and expertise to continually improve all things Ubuntu. At the other, we are able to give access to essential software for those who couldn’t otherwise afford it – an advantage that’s keenly felt by individuals and organisations all over the world.
+## 자유 소프트웨어
+우리가 선호하는 소프트웨어 라이선스는 '자유 소프트웨어'이며, 앞으로도 그럴 것입니다. 자유 소프트웨어는 누구나 원하는 방식으로 사용할 자유와, 원하는 사람과 공유할 자유를 제공합니다. 이러한 자유는 매우 큰 혜택을 가져옵니다. 우분투 커뮤니티가 성장하고, 경험과 전문 지식을 공유하여 우분투의 모든 것을 지속적으로 개선할 수 있게 합니다. 또한 소프트웨어를 구입할 수 없었던 사람들에게 필수적인 소프트웨어를 이용할 수 있는 기회를 제공합니다. 이러한 이점은 전 세계의 개인과 조직이 깊이 체감하고 있습니다.
 
-Quoting the [Free Software Foundation’s](https://www.fsf.org/), [‘What is Free Software,’](https://www.gnu.org/philosophy/free-sw.html) the freedoms at the core of free software are defined as:
+[자유 소프트웨어 재단](https://www.fsf.org/)의 ['자유 소프트웨어란 무엇인가'](https://www.gnu.org/philosophy/free-sw.html)에서 정의한 자유 소프트웨어의 핵심적인 네 가지 자유는 다음과 같습니다:
 
-* The freedom to run the program, for any purpose.
-* The freedom to study how the program works and adapt it to your needs.
-* The freedom to redistribute copies so you can help others.
-* The freedom to improve the program and release your improvements to the public, so that everyone benefits.
+* 어떤 목적이든 프로그램을 실행할 자유
+* 프로그램이 어떻게 동작하는지 연구하고, 자신의 필요에 맞게 수정할 자유
+* 다른 사람을 돕기 위해 프로그램의 복사본을 재배포할 자유
+* 프로그램을 개선하고, 개선된 버전을 공개하여 모두가 그 혜택을 누릴 자유
 
-## Open source
-Open source is collective power in action. The power of a worldwide community of highly skilled experts that build, share and improve the very latest software together - then make it available to everyone.
+## 오픈 소스
+오픈 소스는 협력의 힘이 실현된 형태입니다. 전 세계의 숙련된 전문가 커뮤니티가 최신 소프트웨어를 함께 구축하고 공유하며 개선한 후 모든 사람이 이용할 수 있도록 하는 힘입니다.
 
-The term open source was coined in 1998 to remove the ambiguity in the English word ‘free’ and it continues to enjoy growing success and wide recognition. Although some people regard ‘free’ and ‘open source’ as competing movements with different ends, we do not. Ubuntu proudly includes members who identify with both.
+'오픈 소스'라는 용어는 영어 단어 'free'의 모호함을 없애기 위해 1998년에 만들어졌으며, 지금도 계속해서 널리 인식되고 성장하고 있습니다. '자유 소프트웨어'와 '오픈 소스'를 서로 다른 목적을 가진 경쟁적 운동으로 간주하지만, 그렇지 않습니다. 우분투는 이 두 관점을 모두 포용하는 구성원들을 자랑스럽게 포함하고 있습니다.
 
-Originally coined in 1998, the term open source came out of the free software movement, a collaborative force going strong since the dawn of computing in the 1950s. This early community was responsible for the development of many of the first operating systems, software and, in 1969, the Internet itself.
+'오픈 소스'라는 용어는 1998년에 처음 만들어졌지만, 그 뿌리는 1950년대 컴퓨팅 초창기부터 이어져 온 자유 소프트웨어 운동에 있습니다. 이 초기 커뮤니티는 최초의 운영체제와 소프트웨어 다수의 개발을 주도했으며, 1969년 인터넷 개발에도 기여했습니다.
 
-The open-source community is thriving and today boasts some of the best brains in the business. The aim has not changed: free systems and software should be available to everybody, wherever they are.
+오픈 소스 커뮤니티는 번성하고 있으며, 오늘날 업계 최고의 인재들을 자랑합니다. 목표는 변하지 않았습니다: 자유 시스템과 소프트웨어는 어디에 있든 누구나 이용할 수 있어야 합니다.
 
-Without open source, many of the systems and applications we take for granted simply would not exist. All the big players in computing come from, or owe a huge creative debt to, the open-source community, and continue to rely on its talent and expertise when developing new products.
+오픈 소스가 없었다면 우리가 당연하게 사용하는 많은 시스템과 애플리케이션은 존재하지 않았을 것입니다. 컴퓨팅 분야의 모든 주요 기업들은 오픈 소스 커뮤니티에서 비롯되었거나 그 창의력에 큰 빚을 지고 있으며, 현재도 신제품 개발 시 그 인재와 전문성에 의존하고 있습니다.
 
-In the spirit of open source, Ubuntu is absolutely free to download, use, share and improve. Please note, however, that the Ubuntu name and logo are protected trademarks, subject to our [intellectual property rights policy](https://ubuntu.com/legal/intellectual-property-policy).
+오픈 소스 정신에 따라 우분투는 다운로드, 사용, 공유 및 개선이 완전히 자유롭습니다. 단, 우분투의 이름과 로고는 보호받는 상표이며, 우리의 [지식재산권 정책](https://ubuntu.com/legal/intellectual-property-policy)의 적용을 받습니다. 
 
-## What is open source?
-There are 10 core principles of open-source software:
+## 오픈 소스란 무엇인가?
+오픈 소스 소프트웨어에는 다음과 같은 10가지 핵심 원칙이 있습니다.
 
-1. Software must be free to redistribute.
-2. The program must include source code.
-3. The licence must allow people to experiment with and redistribute modifications.
-4. Users have a right to know who is responsible for the software they are using.
-5. There should be no discrimination against any person or group.
-6. The licence must not restrict anyone from making use of the program in a specific field.
-7. No-one should need to acquire an additional licence to use or redistribute the program.
-8. The licence must not be specific to a product.
-9. The licence must not restrict other software.
-10. The licence must be technology-neutral.
+1. 소프트웨어는 자유롭게 재배포할 수 있어야 한다.
+2. 프로그램에는 소스 코드가 포함되어야 한다.
+3. 해당 라이선스는 사람들이 수정 사항을 실험하고 재배포할 수 있도록 허용해야 한다.
+4. 사용자는 자신이 사용하는 소프트웨어의 책임 주체를 알 권리가 있다.
+5. 어떤 개인이나 집단에 대한 차별이 있어서는 안 된다.
+6. 해당 라이선스는 특정 분야에서의 프로그램 사용을 제한해서는 안 된다.
+7. 프로그램을 사용하거나 재배포하기 위해 별도의 추가 라이선스를 취득할 필요가 없다.
+8. 해당 라이선스는 특정 제품에 종속되어서는 안 된다.
+9. 해당 라이선스는 다른 소프트웨어를 제한해서는 안 된다.
+10. 해당 라이선스는 기술적으로 중립적이어야 한다.
 
-[Take a look at the Open Source Initiative’s definition of open-source software for a more detailed explanation](https://opensource.org/docs/definition.php).
-
-
+[보다 자세한 설명은 Open Source Initiative의 오픈 소스 소프트웨어 정의를 참고하세요](https://opensource.org/docs/definition.php).
