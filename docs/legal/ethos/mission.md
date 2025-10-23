@@ -1,64 +1,57 @@
-# 우리의 사명
+# Our Mission
 
-> 본 문서는 번역된 것이며, 영어 원문은 [여기](https://ubuntu.com/community/ethos/mission)에서 확인 가능합니다.
+## To bring free software to the widest audience
+In an era where the frontiers of innovation are public, and not private, the platforms for consuming that innovation should enable everyone to participate. That is the vision for Ubuntu and Canonical, which motivates us to enable a wide diversity of open source communities to collaborate under the Ubuntu umbrella.
 
-### 광범위한 사용자에게 자유 소프트웨어를 제공
+We believe that every computer user:
 
-혁신의 최전선이 대중에게 공개된 시대에서, 그 혁신을 이용하기 위한 플랫폼은 모든 사람이 참여할 수 있도록 해야합니다. 이것이 우분투와 캐노니컬의 비전이며, 이 비전은 우분투 산하에서 다양한 오픈 소스 커뮤니티가 협력할 수 있도록 동기 부여합니다.
+* Should have the freedom to download, run, copy, distribute, study, share, change and improve their software for any purpose, without paying licensing fees.
+* Should be able to use their software in the language of their choice.
+* Should be able to use all software regardless of disability.
+* Our philosophy is reflected in the software we produce, the way we distribute it and our licensing terms, too - [Intellectual property rights policy](https://ubuntu.com/legal/intellectual-property-policy).
 
-우리는 모든 컴퓨터 사용자가 다음과 같아야 한다고 믿습니다:
+We aim to be the platform which leads in achieving these ideals. We work to the goal that every piece of software you could possibly need is available under a licence that gives you those freedoms.
 
-* 라이센스 비용을 지불하지 않고 목적에 관계 없이 소프트웨어를 다운로드, 실행, 복사, 배포, 연구, 공유, 변경, 개선할 자유가 있어야 합니다.
-* 선택한 언어로 소프트웨어를 사용할 수 있어야 합니다.
-* 장애 유무에 관계없이 모든 소프트웨어를 사용할 수 있어야 합니다.
-* 우리의 철학은 우리가 제작하는 소프트웨어, 배포 방법 및 라이센스 조건에도 반영됩니다. - [Intellectual property rights policy](https://ubuntu.com/legal/intellectual-property-policy)
+## To accelerate innovation and underpin operations
+We make the world better by enabling anyone, anywhere, to pursue their ambitions regardless of their resources. It is important to us that a researcher in the furthest corner of the world from Silicon Valley can use Ubuntu on exactly the same terms as a startup in San Francisco, to build something that nobody has imagined before. It’s also important to us that Ubuntu enables those upstarts to grow, from garage visionaries to galactic stars, and Canonical serves to provide enterprise capabilities and services for Ubuntu users.
 
-우리는 이러한 목표 실현을 선도하는 플랫폼이 되고자 합니다. 사용자가 필요로 할 수 있는 모든 소프트웨어를, 위와 같은 자유를 부여하는 라이센스 하에 사용할 수 있도록 노력하고 있습니다.
+## Free software
+Our preferred software licenses are ‘free software’ and always will be. Free software gives everyone the freedom to use it however they want and share with whoever they like. This freedom has huge benefits. At one end of the spectrum it enables the Ubuntu community to grow and share its collective experience and expertise to continually improve all things Ubuntu. At the other, we are able to give access to essential software for those who couldn’t otherwise afford it – an advantage that’s keenly felt by individuals and organisations all over the world.
 
-### 혁신 가속화 및 운영 지원
+Quoting the [Free Software Foundation’s](https://www.fsf.org/), [‘What is Free Software,’](https://www.gnu.org/philosophy/free-sw.html) the freedoms at the core of free software are defined as:
 
-우리는 자원에 상관없이 누구나, 어디서나, 자신의 야망을 쫓을 수 있도록 함으로써 더 나은 세상을 만듭니다. 우리에게 중요한 것은 지금까지 아무도 상상하지 못했던 것을 만들기 위해, 세계에서 실리콘 밸리로부터 가장 먼 곳에 있는 연구자들이 샌프란시스코의 스타트업과 똑같은 조건으로 우분투를 사용할 수 있는 것입니다. 우분투가 차고의 공상자에서 은하계 별에 이르기까지 스타트업들을 성장할 수 있게 하는 것도 우리에게 중요하며, 캐노니컬은 우분투 사용자들에게 엔터프라이즈 기능과 서비스를 제공하는 역할을 합니다.
+* The freedom to run the program, for any purpose.
+* The freedom to study how the program works and adapt it to your needs.
+* The freedom to redistribute copies so you can help others.
+* The freedom to improve the program and release your improvements to the public, so that everyone benefits.
 
-### 자유 소프트웨어
+## Open source
+Open source is collective power in action. The power of a worldwide community of highly skilled experts that build, share and improve the very latest software together - then make it available to everyone.
 
-우리가 추구하는 소프트웨어 라이센스는 '자유 소프트웨어(free software)'이며 앞으로도 그럴 것입니다. 자유 소프트웨어는 누구나 소프트웨어를 사용하고 원하는 사람과 공유할 수 있는 자유를 제공합니다. 이 자유는 엄청난 이점을 갖는데, 우분투 커뮤니티가 성장하고 집단적인 경험과 전문 지식을 공유하여 우분투의 모든 것을 지속적으로 개선할 수 있도록 합니다. 그리고 경제적 여유가 없는 사람들이 필수 소프트웨어에 접근할 수 있도록 하는데, 이는 전세계 개인과 조직이 절실히 실감하는 장점입니다.
+The term open source was coined in 1998 to remove the ambiguity in the English word ‘free’ and it continues to enjoy growing success and wide recognition. Although some people regard ‘free’ and ‘open source’ as competing movements with different ends, we do not. Ubuntu proudly includes members who identify with both.
 
-[Free Software Foundation](https://www.fsf.org/)의 ['What is Free Software,'](https://www.gnu.org/philosophy/free-sw.html)를 인용하면 자유 소프트웨어의 핵심에 있는 자유는 다음과 같이 정의됩니다:
+Originally coined in 1998, the term open source came out of the free software movement, a collaborative force going strong since the dawn of computing in the 1950s. This early community was responsible for the development of many of the first operating systems, software and, in 1969, the Internet itself.
 
-* 어떤 목적을 위해서라도 프로그램을 운영할 자유
-* 프로그램이 어떻게 작동하는지 연구하고 필요에 맞게 조정할 수 있는 자유
-* 다른 사람을 도울 수 있도록 복사본을 재배포할 수 있는 자유
-* 모든 사람이 혜택을 받을 수 있도록, 프로그램을 개선하고 개선 사항을 대중에게 공개할 자유
+The open-source community is thriving and today boasts some of the best brains in the business. The aim has not changed: free systems and software should be available to everybody, wherever they are.
 
-### 오픈 소스
+Without open source, many of the systems and applications we take for granted simply would not exist. All the big players in computing come from, or owe a huge creative debt to, the open-source community, and continue to rely on its talent and expertise when developing new products.
 
-오픈 소스는 활동 중인 집단의 힘입니다. 최신 소프트웨어를 공동으로 구축, 공유, 개선하고 누구나 사용할 수 있도록 하는, 고급 기술을 갖춘 전문가로 구성된 글로벌 커뮤니티의 힘입니다.
+In the spirit of open source, Ubuntu is absolutely free to download, use, share and improve. Please note, however, that the Ubuntu name and logo are protected trademarks, subject to our [intellectual property rights policy](https://ubuntu.com/legal/intellectual-property-policy).
 
-오픈 소스라는 용어는 1998년 '자유(free)'라는 단어의 모호함을 제거하기 위해 만들어졌고, 이후에도 점점 더 성공적으로 널리 인정받고 있습니다. 비록 어떤 사람들은 '자유'와 '오픈 소스'를 서로 다른 목적을 가진 경쟁 운동으로 간주하지만, 우리는 그렇게 생각하지 않습니다. 우분투에는 자랑스럽게도 둘 다 공감하는 회원들이 포함되어 있습니다.
+## What is open source?
+There are 10 core principles of open-source software:
 
-1998년에 만들어진 오픈 소스라는 용어는 1950년대 컴퓨팅의 여명기 이후 강력해진 협력 세력인 자유 소프트웨어 운동에서 비롯되었습니다. 이 초기 커뮤니티는 최초의 운영 체제, 소프트웨어 및 1969년에 인터넷 자체의 많은 개발을 담당했습니다.
+1. Software must be free to redistribute.
+2. The program must include source code.
+3. The licence must allow people to experiment with and redistribute modifications.
+4. Users have a right to know who is responsible for the software they are using.
+5. There should be no discrimination against any person or group.
+6. The licence must not restrict anyone from making use of the program in a specific field.
+7. No-one should need to acquire an additional licence to use or redistribute the program.
+8. The licence must not be specific to a product.
+9. The licence must not restrict other software.
+10. The licence must be technology-neutral.
 
-오픈 소스 커뮤니티는 번창하고 있으며 오늘날 업계에서 최고의 두뇌를 자랑합니다. 자유 시스템과 소프트웨어는 어디서나 누구나 사용할 수 있어야 한다는 목적은 변하지 않았습니다.
+[Take a look at the Open Source Initiative’s definition of open-source software for a more detailed explanation](https://opensource.org/docs/definition.php).
 
-오픈 소스가 없다면 우리가 당연하게 여기는 많은 시스템과 응용 프로그램은 존재하지 않을 것입니다. 컴퓨팅 업계의 선도 기업들은 모두 오픈 소스 커뮤니티에서 비롯되거나 오픈 소스 커뮤니티에서 상당한 창의적 혜택을 받고 있으며, 새로운 제품을 개발할 때 오픈 소스 커뮤니티의 재능과 전문 지식에 계속 의존하고 있습니다.
 
-우분투는 이런 오픈 소스 정신을 바탕으로 언제든지 원할 때 자유롭게 다운로드, 사용, 공유 및 개선할 수 있습니다.
-
-> 오픈 소스 정신을 바탕으로 Ubuntu는 자유롭게 다운로드, 사용, 공유 및 개선할 수 있습니다. 그러나 우분투의 이름과 로고는 보호 된 상표이며 당사의 [지적 재산권 정책](https://ubuntu.com/legal/intellectual-property-policy)의 대상이됩니다.
-
-### 오픈 소스란 무엇입니까?
-
-오픈 소스 소프트웨어의 10가지 핵심 원리는 다음과 같습니다:
-
-1. 소프트웨어는 자유롭게 재배포할 수 있어야 합니다.
-2. 프로그램에는 소스 코드가 포함되어 있어야 합니다.
-3. 라이센스는 사용자가 변경사항을 실험하고 재배포할 수 있도록 허용해야 합니다.
-4. 사용자는 사용 중인 소프트웨어의 책임자를 알 권리가 있습니다.
-5. 어떠한 개인이나 집단에 대해서도 차별이 없어야 합니다.
-6. 라이센스는 특정 분야에서 프로그램의 사용을 제한해서는 안됩니다.
-7. 누구도 프로그램을 사용하거나 재배포하기 위해 추가 라이센스를 취득할 필요가 없습니다.
-8. 라이센스는 제품에만 한정되지 않아야 합니다.
-9. 라이센스는 다른 소프트웨어를 제한해서는 안됩니다.
-10. 라이센스는 기술 중립적이어야 합니다.
-
-[자세한 내용은 Open Source Initiative의 오픈 소스 소프트웨어 정의를 참조하십시오. ](https://opensource.org/docs/definition.php).

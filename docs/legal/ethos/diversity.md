@@ -1,13 +1,11 @@
-# 다양성 정책
+# Diversity Policy
 
-> 본 문서는 번역된 것이며, 영어 원문은 [여기](https://ubuntu.com/community/ethos/diversity)에서 확인 가능합니다.
+The Ubuntu project welcomes and encourages participation by everyone. We are committed to being a community that everyone feels good about joining. Although we may not be able to satisfy everyone, we will always work to treat everyone well.
 
-우분투 프로젝트는 모든 사람의 참여를 환영하고 장려합니다. 우리는 모두가 기쁜 마음으로 참여할 수 있는 커뮤니티가 되기 위해 최선을 다하고 있습니다. 모든 사람을 만족시킬 수는 없겠지만, 항상 모두를 잘 대접하기 위해 노력할 것입니다.
+Standards for behaviour in the Ubuntu community are detailed in the [Code of Conduct](./code-of-conduct) and [Leadership Code of Conduct](./code-of-conduct#leadership). We expect participants in our community to meet these standards in all their interactions and to help others to do so as well.
 
-우분투 커뮤니티에서의 행동 기준은 [행동 강령](../code-of-conduct) 및 [리더십 행동 강령](../code-of-conduct#leadership)에 자세히 설명되어 있습니다. 우리는 커뮤니티 참여자들이 모든 상호 작용에서 이러한 기준을 준수하고 다른 사람들도 그렇게 할 수 있도록 도울 것을 기대합니다.
+Whenever any participant has made a mistake, we expect them to take responsibility for it. If someone has been harmed or offended, it is our responsibility to listen carefully and respectfully, and do our best to right the wrong.
 
-모든 참가자는 실수를 저질렀을 때 그에 대한 책임을 져야 합니다. 누군가 피해를 입거나 불쾌감을 느꼈다면, 우리는 신중하고 정중하게 경청하고 잘못을 바로잡기 위해 최선을 다해야 할 책임이 있습니다.
+Although this list cannot be exhaustive, we explicitly honour diversity in age, culture, ethnicity, genotype, gender identity or expression, language, national origin, neurotype, phenotype, political beliefs, profession, race, religion, sexual orientation, socio-economic status, subculture and technical ability.
 
-이 목록이 모든 것을 포괄할 수는 없지만, 우리는 연령, 문화, 민족, 유전자형, 성 정체성 또는 표현, 언어, 출신 국가, 신경형, 표현형, 정치적 신념, 직업, 인종, 종교, 성적 지향, 사회경제적 지위, 하위문화 및 기술 능력의 다양성을 명시적으로 존중합니다.
-
-이 성명서의 일부 아이디어와 문구는 [Python 커뮤니티](https://www.python.org/community/diversity/)와 [Dreamwidth Studios](https://www.dreamwidth.org/legal/diversity)의 다양성 선언문(CC-BY-SA 3.0)을 기반으로 작성되었습니다.
+Some of the ideas and wording for this statement were based on diversity statements from the [Python community](https://www.python.org/community/diversity/) and [Dreamwidth Studios](https://www.dreamwidth.org/legal/diversity) (CC-BY-SA 3.0).
