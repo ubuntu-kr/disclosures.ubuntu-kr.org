@@ -74,4 +74,4 @@ This Code is not exhaustive or complete. It is not a rulebook; it serves to dist
 ### Taking Conflict to the Community Council
 If a member of the community feels there has been a violation of the Ubuntu Code of Conduct, they are encouraged to bring it forward to the Community Council for review. For additional information on this process, please visit Conflict Resolution.
 
-_The Ubuntu Code of Conduct is licensed under the [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license. You may re-use it for your own project, and modify it as you wish, just please allow others to use your modifications and give credit to the Ubuntu Project!_
+_우분투 행동 강령은 [크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0](https://creativecommons.org/licenses/by-sa/3.0/) 라이선스로 배포됩니다. 본 강령을 여러분의 프로젝트에 재사용하거나 원하는 대로 수정할 수 있습니다. 다만, 다른 사람들도 여러분의 수정본을 사용할 수 있도록 허용하고 우분투 프로젝트에 저작권을 표시해 주시기 바랍니다!_
