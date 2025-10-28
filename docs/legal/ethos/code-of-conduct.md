@@ -30,8 +30,8 @@ Nobody is expected to be perfect in this community. Asking questions early avoid
 ### Step down considerately
 When somebody leaves or disengages from the project, we ask that they do so in a way that minimises disruption to the project. They should tell people they are leaving and take the proper steps to ensure that others can pick up where they left off.
 
-### 리더십, 권위 및 책임
-우리는 토론과 행동 모두에서 모범을 보이며 이끌어갑니다. 우리는 새로운 참여자들이 주도권을 갖고, 행동하며, 혁신이 프로젝트를 개선할 수 있다고 판단될 때 실험할 수 있도록 힘을 실어줍니다. 리더십은 누구나 단순히 행동을 취함으로써 발휘될 수 있으며, 리더십을 발휘할 기회가 왔을 때 인정을 기다릴 필요가 없습니다.
+## 리더십, 권위 및 책임
+우리는 토론과 행동 모두에서 모범을 보이며 이끌어갑니다. 우리는 새로운 참여자들이 프로젝트를 개선하기 위해 혁신을 시도하고, 실행하고, 실험할 수 있는 역량을 갖도록 독려합니다. 리더십은 누구나 단순히 행동으로써 발휘될 수 있으며, 리더십을 발휘할 기회가 왔을 때 인정을 기다릴 필요가 없습니다.
 
 ### 최고위층으로부터의 위임
 프로젝트에 대한 책임은 '자비로운 독재자(benevolent dictator)'로부터 시작되며, 그는 커뮤니티 협의회("CC")를 시작으로 일련의 팀, 협의회 및 개인에게 특정한 책임과 그에 상응하는 권한을 위임합니다. 해당 협의회 또는 그 위임된 대표자는 모든 분쟁을 중재할 것입니다.
