@@ -1,6 +1,6 @@
-# Ubuntu Code of Conduct v2.0
+# 우분투 행동 강령 v2.0
 
-Ubuntu is about showing humanity to one another: the word itself captures the spirit of being human.
+우분투는 서로에게 인류애를 보여줍니다. 단어 자체가 인간이라는 정신을 포착합니다.
 
 We want a productive, happy and agile community that can welcome new ideas in a complex field, improve every process every year, and foster collaboration between groups with very different needs, interests and skills.
 
