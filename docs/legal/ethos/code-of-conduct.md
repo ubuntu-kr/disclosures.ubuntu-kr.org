@@ -30,48 +30,48 @@ Nobody is expected to be perfect in this community. Asking questions early avoid
 ### Step down considerately
 When somebody leaves or disengages from the project, we ask that they do so in a way that minimises disruption to the project. They should tell people they are leaving and take the proper steps to ensure that others can pick up where they left off.
 
-## Leadership, authority and responsibility
-We all lead by example, in debate and in action. We encourage new participants to feel empowered to lead, to take action, and to experiment when they feel innovation could improve the project. Leadership can be exercised by anyone simply by taking action, there is no need to wait for recognition when the opportunity to lead presents itself.
+## 리더십, 권위 및 책임
+우리는 토론과 행동 모두에서 모범을 보이며 이끌어갑니다. 우리는 새로운 참여자들이 프로젝트를 개선하기 위해 혁신을 시도하고, 실행하고, 실험할 수 있는 역량을 갖도록 독려합니다. 리더십은 누구나 단순히 행동으로써 발휘될 수 있으며, 리더십을 발휘할 기회가 왔을 때 인정을 기다릴 필요가 없습니다.
 
-### Delegation from the top
-Responsibility for the project starts with the “benevolent dictator”, who delegates specific responsibilities and the corresponding authority to a series of teams, councils and individuals, starting with the Community Council (“CC”). That Council or its delegated representative will arbitrate in any dispute.
+### 최고위층으로부터의 위임
+프로젝트에 대한 책임은 '자비로운 독재자(benevolent dictator)'로부터 시작되며, 그는 커뮤니티 협의회("CC")를 포함한 일련의 팀, 협의회 및 개인에게 특정한 책임과 그에 상응하는 권한을 위임합니다. 해당 협의회 또는 그 위임된 대표자는 모든 분쟁에 대해 중재역할을 수행합니다.
 
-We are a meritocracy; we delegate decision making, governance and leadership from senior bodies to the most able and engaged candidates.
+우리는 능력주의를 기반으로 하며, 의사 결정, 거버넌스 및 리더십을 상위 기관으로부터 가장 유능하고 적극적인 구성원에게 위임합니다.
 
-### Support for delegation is measured
-Nominations to the boards and councils are at the discretion of the Community Council, however the Community Council will seek the input of the community before confirming appointments.
+### 위임에 대한 지지는 평가됩니다
+이사회 및 협의회에 대한 지명은 커뮤니티 협의회의 재량에 따르지만, 커뮤니티 협의회는 임명을 확정하기 전에 커뮤니티의 의견을 구할 것입니다.
 
-Leadership is not an award, right, or title; it is a privilege, a responsibility and a mandate. A leader will only retain their authority as long as they retain the support of those who delegated that authority to them.
+리더십은 상, 권리 또는 직함이 아니며, 특권이자 책임이며 임무입니다. 리더는 그 권한을 위임한 사람들의 지지를 유지하는 한에서만 권위를 유지할 것입니다.
 
-### We value discussion, data and decisiveness
-We gather opinions, data and commitments from concerned parties before taking a decision. We expect leaders to help teams come to a decision in a reasonable time, to seek guidance or be willing to take the decision themselves when consensus is lacking, and to take responsibility for implementation.
+### 우리는 토론, 데이터, 결단력을 중시합니다
+우리는 결정을 내리기 전에 관련 당사자들로부터 의견, 데이터 및 약속을 수집합니다. 우리는 리더들이 팀이 합리적인 시간 내에 결정을 내리도록 돕고, 합의가 부족할 경우 지침을 구하거나 스스로 결정을 내릴 의향을 가지며, 실행에 대한 책임을 질 것을 기대합니다.
 
-The poorest decision of all is no decision: clarity of direction has value in itself. Sometimes all the data are not available, or consensus is elusive. A decision must still be made. There is no guarantee of a perfect decision every time - we prefer to err, learn, and err less in future than to postpone action indefinitely.
+모든 결정 중에서 가장 좋지 않은 결정은 아무 결정도 하지 않는 것입니다. 방향이 명확하다는 것만으로도 가치가 있습니다. 때로는 모든 데이터를 확보할 수 없거나 합의에 도달하기 어려울 수 있습니다. 그럼에도 불구하고 결정은 내려져야 합니다. 항상 완벽한 결정을 내릴 수는 없으며, 우리는 실수를 통해 배우고, 다음에는 더 나은 결정을 내리는 것을 지향합니다. 행동을 무기한 미루는 것보다 실수를 통해 성장하는 편을 선호합니다.
 
-We recognise that the project works better when we trust the teams closest to a problem to make the decision for the project. If we learn of a decision that we disagree with, we can engage the relevant team to find common ground, and failing that, we have a governance structure that can review the decision. Ultimately, if a decision has been taken by the people responsible for it, and is supported by the project governance, it will stand. None of us expects to agree with every decision, and we value highly the willingness to stand by the project and help it deliver even on the occasions when we ourselves may prefer a different route.
+우리는 문제에 가장 가까운 팀이 프로젝트를 위해 결정을 내리도록 신뢰할 때 프로젝트가 더 잘 작동합니다.동의하지 않는 결정을 접했을 경우, 해당 팀과 협력하여 공통점을 찾을 수 있으며, 필요할 경우 프로젝트의 거버넌스 구조를 통해 결정을 검토할 수 있습니다. 궁극적으로, 책임 있는 사람들이 내렸고 프로젝트 거버넌스에 의해 지지되는 결정은 유효합니다. 우리 중 누구도 모든 결정에 동의할 것이라고 기대하지 않으며, 우리 자신이 다른 방향을 선호할 수 있는 경우에도 프로젝트를 지지하고 프로젝트가 목표를 달성하도록 돕는 의지를 높이 평가합니다.
 
-### Open meritocracy
-We invite anybody, from any company, to participate in any aspect of the project. Our community is open, and any responsibility can be carried by any contributor who demonstrates the required capacity and competence.
+### 개방된 능력주의
+우리는 모든 회사 출신의 누구나 프로젝트의 모든 측면에 참여하도록 환영합니다. 우리의 커뮤니티는 개방되어 있으며, 필요한 역량과 능력을 보여주는 모든 기여자가 어떠한 책임도 맡을 수 있습니다.
 
-### Teamwork
-A leader’s foremost goal is the success of the team.
+### 팀워크
+리더의 가장 중요한 목표는 팀의 성공입니다.
 
-“A virtuoso is judged by their actions; a leader is judged by the actions of their team.” A leader knows when to act and when to step back. They know when to delegate work, and when to take it upon themselves.
+"명인(virtuoso)은 자신의 행동으로 평가받지만, 리더는 팀의 행동으로 평가받습니다." 리더는 언제 행동하고 언제 한발 물러서야 할지 압니다. 그들은 언제 일을 위임하고 언제 스스로 맡아야 할지 압니다.
 
-### Credit
-A good leader does not seek the limelight, but celebrates team members for the work they do. Leaders may be more visible than members of the team, good ones use that visibility to highlight the great work of others.
+### 공로 인정
+좋은 리더는 주목을 받으려 하지 않고, 팀원들의 공헌을 치하합니다. 리더는 팀원들보다 더 눈에 띌 수 있지만, 좋은 리더는 그 가시성을 활용하여 다른 사람들의 훌륭한 작업을 부각시킵니다.
 
-### Courage and considerateness
-Leadership occasionally requires bold decisions that will not be widely understood, consensual or popular. We value the courage to take such decisions, because they enable the project as a whole to move forward faster than we could if we required complete consensus. Nevertheless, boldness demands considerateness; take bold decisions, but do so mindful of the challenges they present for others, and work to soften the impact of those decisions on them. Communicating changes and their reasoning clearly and early on is as important as the implementation of the change itself.
+### 용기와 배려
+리더십은 때때로 널리 이해되지 않거나, 합의를 얻지 못하거나, 인기가 없는 과감한 결정을 요구합니다. 우리는 그러한 결정을 내릴 용기를 중요하게 여기는데, 이는 완전한 합의를 요구할 경우보다 프로젝트 전체가 더 빠르게 전진할 수 있도록 하기 때문입니다. 그럼에도 불구하고, 과감함에는 배려가 필요합니다. 과감한 결정을 내리되, 그 결정이 다른 사람들에게 미칠 어려움을 염두에 두고 그 영향을 완화하기 위해 노력해야 합니다. 변경 사항과 그 이유를 명확하고 조기에 소통하는 것은 변경 자체의 실행만큼이나 중요합니다.
 
-### Conflicts of interest
-We expect leaders to be aware when they are conflicted due to employment or other projects they are involved in, and abstain or delegate decisions that may be seen to be self-interested. We expect that everyone who participates in the project does so with the goal of making life better for its users.
+### 이해 상충
+우리는 리더들이 고용이나 참여하고 있는 다른 프로젝트로 인해 이해가 상충될 때 이를 인지하고, 사적인 이익으로 간주될 수 있는 결정에 대해서는 기권하거나 위임할 것을 기대합니다. 우리는 프로젝트에 참여하는 모든 사람이 사용자들의 삶을 더 낫게 만들겠다는 목표를 가지고 임할 것을 기대합니다.
 
-When in doubt, ask for a second opinion. Perceived conflicts of interest are important to address; as a leader, act to ensure that decisions are credible even if they must occasionally be unpopular, difficult or favourable to the interests of one group over another.
+의심이 들 때는 다른 의견을 구하십시오. 인지된 이해 상충은 다루어야 할 중요한 문제입니다. 리더로서, 때때로 인기 없거나 어렵거나 혹은 한 그룹의 이익에 다른 그룹보다 더 유리해야 하는 결정이라 할지라도 그 결정이 신뢰할 수 있도록 행동해야 합니다.
 
-This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in the letter.
+이 강령은 모든 것을 망라하거나 완벽하지 않습니다. 이것은 규칙서가 아니며, 협력적이고 공유된 환경과 목표에 대한 우리의 공통된 이해를 추출해낸 것입니다. 우리는 이 강령이 문자 그대로뿐만 아니라 정신적으로도 준수되기를 기대합니다.
 
-### Taking Conflict to the Community Council
-If a member of the community feels there has been a violation of the Ubuntu Code of Conduct, they are encouraged to bring it forward to the Community Council for review. For additional information on this process, please visit Conflict Resolution.
+### 분쟁을 커뮤니티 협의회로 가져가기
+커뮤니티 구성원이 우분투 행동 강령(Ubuntu Code of Conduct) 위반이 있었다고 느낀다면, 검토를 위해 커뮤니티 협의회에 제출하도록 권장됩니다. 이 과정에 대한 추가 정보는 분쟁 해결(Conflict Resolution)을 방문하십시오.
 
-_The Ubuntu Code of Conduct is licensed under the [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license. You may re-use it for your own project, and modify it as you wish, just please allow others to use your modifications and give credit to the Ubuntu Project!_
+*우분투 행동 강령은 [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) 라이선스에 따라 사용이 허가되었습니다. 귀하의 프로젝트를 위해 재사용하거나 원하는 대로 수정할 수 있지만, 귀하의 수정 사항을 다른 사람들도 사용할 수 있도록 허용하고 우분투 프로젝트의 공로를 인정해 주십시오!*
