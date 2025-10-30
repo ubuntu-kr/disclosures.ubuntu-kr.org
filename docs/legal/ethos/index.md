@@ -1,18 +1,17 @@
-# Ethos
+# 정신
+Ubuntu는 단순한 이름 이상의 의미를 지닙니다. 우리 커뮤니티의 본질을 담고 있습니다. "타인에 대한 인간애"를 뜻하는 고대 아프리카어에서 유래한 Ubuntu의 미션은 이러한 정신을 소프트웨어 세계에 전파하는 것이며, 이는 변함이 없습니다.
 
-Ubuntu is more than just a name. It embodies the very essence of our community. Deriving from an ancient African word that means “humanity to others”, our mission is and has always been to spread this spirit to the software world.
+## Ubuntu 행동 강령
+Ubuntu 커뮤니티 구성원들은 커뮤니티가 건강하고 안정적이며 협력과 번영의 장으로 유지되도록 돕는 간단한 행동 강령을 따릅니다. 우리의 노력에 동참하고자 하는 분들은 이러한 중요한 원칙들을 배우고 체득하는 것이 필수적입니다.
 
-## Ubuntu Code of Conduct
-Members of the Ubuntu Community follow a simple code of conduct that helps ensure our community stays healthy, stable and remains a place for collaboration and prosperity. For those wanting to join in our efforts, it is crucial to learn and embody these important principles.
+[Ubuntu 행동 강령 읽기](./code-of-conduct)
 
-[Read the Ubuntu Code of Conduct](./code-of-conduct)
+## 다양성 정책
+우리 커뮤니티는 다양성에서 힘을 얻으며 모든 사람이 프로젝트에 참여하도록 적극적으로 장려합니다. 우리는 모두가 자부심을 느낄 수 있고 상호 존중을 바탕으로 구축된 커뮤니티를 육성하기 위해 최선을 다하고 있습니다.
 
-## Diversity Policy
-Our community gains strength from its diversity and actively encourages everyone to participate in the project. We are committed to fostering a community that everyone feels proud to be a part of and one that is built around a mutual respect for one another.
+[우리의 다양성을 지원하고 존중하는 방법 알아보기](./diversity)
 
-[Discover how we support and honour our diversity](./diversity)
+## 우리의 미션
+Ubuntu의 미션은 사회적이면서 동시에 경제적입니다. 우리는 자유 소프트웨어를 가능한 한 많은 사람들에게 제공함으로써 개인과 커뮤니티가 혁신하고 실험하며 성장할 수 있도록 힘을 실어줄 것이라고 믿습니다. 오픈소스의 평등한 특성을 통해 Ubuntu 정신을 전 세계에 전파하고자 합니다.
 
-## Our Mission
-The mission for Ubuntu is both social and economic. We believe that bringing free software to the widest audience will empower individuals and communities to innovate, experiment and grow. It is through the great equalizing quality of open source that we seek to spread the spirit of Ubuntu around the world.
-
-[Learn the guiding tenets of the Ubuntu Mission](./mission)
+[Ubuntu 미션의 기본 원칙 알아보기](./mission)
