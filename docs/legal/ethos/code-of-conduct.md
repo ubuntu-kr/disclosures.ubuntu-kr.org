@@ -1,77 +1,77 @@
-# Ubuntu Code of Conduct v2.0
+# Ubuntu 행동 강령 (Ubuntu Code of Conduct v2.0)
 
-Ubuntu is about showing humanity to one another: the word itself captures the spirit of being human.
+Ubuntu는 서로에게 인간적인 따뜻함을 나누는 것을 의미합니다. 이 단어는 ‘인간다움’이라는 정신을 담고 있습니다.
 
-We want a productive, happy and agile community that can welcome new ideas in a complex field, improve every process every year, and foster collaboration between groups with very different needs, interests and skills.
+우리는 생산적이고 행복하며 유연한 커뮤니티를 지향합니다. 복잡한 분야에서도 새로운 아이디어를 환영하고, 매년 더 나은 과정을 만들어가며, 서로 다른 필요와 관심, 기술을 가진 사람들이 협업할 수 있도록 돕습니다.
 
-We gain strength from diversity, and actively seek participation from those who enhance it. This code of conduct exists to ensure that diverse groups collaborate to mutual advantage and enjoyment. We will challenge prejudice that could jeopardise the participation of any person in the project.
+우리는 다양성에서 힘을 얻으며, 다양성을 넓히는 사람들의 참여를 적극적으로 환영합니다. 이 행동 강령은 다양한 배경을 가진 사람들이 서로에게 도움이 되고 즐겁게 협력할 수 있도록 보장하기 위해 존재합니다. 우리는 프로젝트 참여를 방해하거나 차별을 조장하는 편견에 맞설 것입니다.
 
-The Code of Conduct governs how we behave in public or in private whenever the project will be judged by our actions. We expect it to be honoured by everyone who represents the project officially or informally, claims affiliation with the project, or participates directly.
+이 행동 강령은 우리가 공적이든 사적이든, 프로젝트의 일원으로서 행동할 때 지켜야 할 기준입니다. 우리는 공식적이든 비공식적이든, 프로젝트를 대표하거나 참여하는 모든 사람이 이 강령의 정신을 존중하고 따를 것을 기대합니다.
 
-## We strive to
-### Be considerate
-Our work will be used by other people, and we in turn will depend on the work of others. Any decision we take will affect users and colleagues, and we should consider them when making decisions.
+## 우리가 지향하는 가치 (We strive to)
+### 배려하기 (Be considerate)
+우리의 작업은 다른 사람들에게 사용되며, 우리 역시 다른 사람들의 작업에 의존합니다. 우리가 내리는 모든 결정은 사용자와 동료에게 영향을 미치므로 그들을 고려하여 판단해야 합니다.
 
-### Be respectful
-Disagreement is no excuse for poor manners. We work together to resolve conflict, assume good intentions and do our best to act in an empathic fashion. We don’t allow frustration to turn into a personal attack. A community where people feel uncomfortable or threatened is not a productive one.
+### 존중하기 (Be respectful)
+의견이 다르다고 해서 무례하게 행동해서는 안 됩니다. 우리는 갈등을 함께 해결하고, 선의를 전제로 하며, 공감하는 태도로 행동하기 위해 노력합니다. 좌절감이 개인에 대한 공격으로 이어지지 않도록 주의해야 합니다. 사람들이 불편하거나 위협을 느끼는 커뮤니티는 생산적인 커뮤니티가 될 수 없습니다.
 
-### Take responsibility for our words and our actions
-We can all make mistakes; when we do, we take responsibility for them. If someone has been harmed or offended, we listen carefully and respectfully, and work to right the wrong.
+### 말과 행동에 책임지기 (Take responsibility for our words and our actions)
+누구나 실수를 할 수 있습니다. 실수를 했다면 책임을 인정하고 바로잡기 위해 노력해야 합니다. 누군가가 상처받거나 불쾌감을 느꼈다면, 그들의 말을 경청하고 존중하며 문제를 해결해야 합니다.
 
-### Be collaborative
-What we produce is a complex whole made of many parts, it is the sum of many dreams. Collaboration between teams that each have their own goal and vision is essential; for the whole to be more than the sum of its parts, each part must make an effort to understand the whole. Collaboration reduces redundancy and improves the quality of our work. Internally and externally, we celebrate good collaboration. Wherever possible, we work closely with upstream projects and others in the free software community to coordinate our efforts. We prefer to work transparently and involve interested parties as early as possible.
+### 협업하기 (Be collaborative)
+우리가 만드는 것은 여러 부분이 어우러져 완성된 복합적인 전체입니다. 각 팀은 각자의 목표와 비전을 가지고 있지만, 전체를 이해하려는 노력이 있어야 전체가 부분의 합보다 더 큰 성과를 냅니다. 협업은 중복을 줄이고, 우리의 작업 품질을 높입니다. 내부적으로든 외부적으로든 좋은 협업을 기념하고 격려합니다. 가능한 한 우리는 상위 프로젝트나 자유 소프트웨어 커뮤니티의 다른 팀들과 긴밀히 협력하여 노력을 조율합니다. 우리는 투명하게 일하고, 가능한 한 이른 시점에 관련된 사람들을 참여시킵니다.
 
-### Value decisiveness, clarity and consensus
-Disagreements, social and technical, are normal, but we do not allow them to persist and fester leaving others uncertain of the agreed direction. We expect participants in the project to resolve disagreements constructively. When they cannot, we escalate the matter to structures with designated leaders to arbitrate and provide clarity and direction.
+### 명확한 결정과 합의를 중시하기 (Value decisiveness, clarity and consensus)
+사회적이든 기술적이든 의견 차이는 자연스러운 일입니다. 하지만 우리는 그것이 오래 지속되어 방향이 불분명해지는 것을 허용하지 않습니다. 프로젝트의 모든 참여자는 건설적으로 의견 차이를 해결해야 하며, 필요할 경우 지정된 리더십 구조에 문제를 상정해 명확한 판단과 방향성을 확보합니다.
 
-### Ask for help when unsure
-Nobody is expected to be perfect in this community. Asking questions early avoids many problems later, so questions are encouraged, though they may be directed to the appropriate forum. Those who are asked should be responsive and helpful.
+### 모를 때는 도움을 요청하기 (Ask for help when unsure)
+이 커뮤니티에서는 누구도 완벽하길 기대하지 않습니다. 질문은 문제를 미연에 방지하는 중요한 과정이므로, 적절한 포럼이나 채널을 통해 자유롭게 질문할 수 있습니다. 질문을 받은 사람은 성실하고 친절하게 응답해야 합니다.
 
-### Step down considerately
-When somebody leaves or disengages from the project, we ask that they do so in a way that minimises disruption to the project. They should tell people they are leaving and take the proper steps to ensure that others can pick up where they left off.
+### 배려심 있게 물러나기 (Step down considerately)
+누군가 프로젝트를 떠나거나 참여를 중단하려 할 때는, 프로젝트에 혼란이 생기지 않도록 배려해야 합니다. 떠나기 전에는 주변에 알리고, 다른 사람이 업무를 이어받을 수 있도록 준비해야 합니다.
 
-## Leadership, authority and responsibility
-We all lead by example, in debate and in action. We encourage new participants to feel empowered to lead, to take action, and to experiment when they feel innovation could improve the project. Leadership can be exercised by anyone simply by taking action, there is no need to wait for recognition when the opportunity to lead presents itself.
+## 리더십, 권한 및 책임 (Leadership, authority and responsibility)
 
-### Delegation from the top
-Responsibility for the project starts with the “benevolent dictator”, who delegates specific responsibilities and the corresponding authority to a series of teams, councils and individuals, starting with the Community Council (“CC”). That Council or its delegated representative will arbitrate in any dispute.
+우리는 토론과 행동에서 모범을 보이며 리드합니다. 새로운 참여자가 스스로 리더십을 발휘하고, 아이디어를 실행하거나 실험할 수 있도록 장려합니다. 리더십은 특별한 인정을 기다릴 필요 없이, 누구나 행동으로 보여줄 수 있습니다.
 
-We are a meritocracy; we delegate decision making, governance and leadership from senior bodies to the most able and engaged candidates.
+### 최고 리더십으로부터의 위임 (Delegation from the top)
+프로젝트에 대한 책임은 ‘자비로운 독재자(benevolent dictator)’에게서 시작됩니다. 그는 커뮤니티 협의회(Community Council, “CC”)를 비롯한 팀, 협의회, 개인에게 구체적인 책임과 권한을 위임합니다. 커뮤니티 협의회 또는 그 위임 대표자는 모든 분쟁을 중재합니다.
 
-### Support for delegation is measured
-Nominations to the boards and councils are at the discretion of the Community Council, however the Community Council will seek the input of the community before confirming appointments.
+우리는 능력주의(meritocracy)를 따릅니다. 의사 결정과 거버넌스, 리더십은 상위 기관에서 가장 유능하고 적극적인 구성원에게 위임됩니다.
 
-Leadership is not an award, right, or title; it is a privilege, a responsibility and a mandate. A leader will only retain their authority as long as they retain the support of those who delegated that authority to them.
+### 위임에 대한 검증 (Support for delegation is measured)
+이사회와 협의회의 임명은 커뮤니티 협의회의 재량에 따르지만, 최종 확정 전에 커뮤니티의 의견을 수렴합니다.
 
-### We value discussion, data and decisiveness
-We gather opinions, data and commitments from concerned parties before taking a decision. We expect leaders to help teams come to a decision in a reasonable time, to seek guidance or be willing to take the decision themselves when consensus is lacking, and to take responsibility for implementation.
+리더십은 상이나 권리가 아니라, 특권이자 책임이며 위임된 의무입니다. 리더는 자신에게 권한을 위임한 사람들의 신뢰를 유지하는 한에서만 권한을 갖습니다.
 
-The poorest decision of all is no decision: clarity of direction has value in itself. Sometimes all the data are not available, or consensus is elusive. A decision must still be made. There is no guarantee of a perfect decision every time - we prefer to err, learn, and err less in future than to postpone action indefinitely.
+### 토론, 데이터, 그리고 결단을 중시하기 (We value discussion, data and decisiveness)
+우리는 결정을 내리기 전에 관련된 사람들의 의견, 데이터, 약속을 모읍니다. 리더는 합리적인 시간 내에 결정을 이끌어야 하며, 합의가 어렵다면 직접 결정을 내릴 용기를 가져야 하고, 그 결과에 대한 책임을 져야 합니다.
 
-We recognise that the project works better when we trust the teams closest to a problem to make the decision for the project. If we learn of a decision that we disagree with, we can engage the relevant team to find common ground, and failing that, we have a governance structure that can review the decision. Ultimately, if a decision has been taken by the people responsible for it, and is supported by the project governance, it will stand. None of us expects to agree with every decision, and we value highly the willingness to stand by the project and help it deliver even on the occasions when we ourselves may prefer a different route.
+가장 나쁜 결정은 아무 결정도 하지 않는 것입니다. 명확한 방향성 자체가 가치이기 때문입니다. 모든 정보를 얻을 수 없거나 합의가 어려운 상황이라도 결정을 내려야 합니다. 우리는 실수를 통해 배우며, 다음에는 더 나은 결정을 내리는 것을 목표로 합니다.
 
-### Open meritocracy
-We invite anybody, from any company, to participate in any aspect of the project. Our community is open, and any responsibility can be carried by any contributor who demonstrates the required capacity and competence.
+프로젝트는 문제에 가장 가까운 팀이 결정을 내릴 때 더 효율적으로 작동합니다. 만약 동의하지 않는 결정이 내려졌다면, 관련 팀과 협의하여 공통점을 찾고, 필요하면 거버넌스 구조를 통해 검토를 요청할 수 있습니다. 그러나 일단 관련 책임자와 거버넌스가 지지한 결정이라면 존중되어야 합니다. 모든 사람이 모든 결정에 동의할 수는 없지만, 프로젝트 전체의 성공을 위해 협력하려는 자세를 가장 높이 평가합니다.
 
-### Teamwork
-A leader’s foremost goal is the success of the team.
+### 열린 능력주의 (Open meritocracy)
+우리는 모든 사람, 모든 회사가 프로젝트의 어떤 부분에도 참여할 수 있도록 환영합니다. 우리 커뮤니티는 열려 있으며, 필요한 능력과 역량을 보여주는 누구나 책임을 맡을 수 있습니다.
 
-“A virtuoso is judged by their actions; a leader is judged by the actions of their team.” A leader knows when to act and when to step back. They know when to delegate work, and when to take it upon themselves.
+### 팀워크 (Teamwork)
+리더의 가장 중요한 목표는 팀의 성공입니다. “연주자는 자신의 행동으로 평가받고, 리더는 팀의 행동으로 평가받는다.” 리더는 언제 행동하고 언제 물러서야 하는지, 언제 일을 위임하고 언제 직접 나서야 하는지를 압니다.
 
-### Credit
-A good leader does not seek the limelight, but celebrates team members for the work they do. Leaders may be more visible than members of the team, good ones use that visibility to highlight the great work of others.
+### 공로 인정 (Credit)
+좋은 리더는 스포트라이트를 독점하지 않습니다. 대신 팀원이 한 일을 공개적으로 칭찬하고, 자신의 가시성을 팀원들의 성과를 알리는 데 사용합니다.
 
-### Courage and considerateness
-Leadership occasionally requires bold decisions that will not be widely understood, consensual or popular. We value the courage to take such decisions, because they enable the project as a whole to move forward faster than we could if we required complete consensus. Nevertheless, boldness demands considerateness; take bold decisions, but do so mindful of the challenges they present for others, and work to soften the impact of those decisions on them. Communicating changes and their reasoning clearly and early on is as important as the implementation of the change itself.
+### 용기와 배려 (Courage and considerateness)
+리더십은 때때로 모두가 동의하지 않거나 인기 없는 결정을 내려야 할 때가 있습니다. 이런 결단은 프로젝트 전체가 더 빠르게 나아가도록 돕기에 중요합니다. 하지만 대담함은 배려를 동반해야 합니다. 다른 사람에게 미칠 영향을 고려하며, 변경 사항과 이유를 명확하고 조기에 공유하는 것은 그 자체로 중요한 리더의 책임입니다.
 
-### Conflicts of interest
-We expect leaders to be aware when they are conflicted due to employment or other projects they are involved in, and abstain or delegate decisions that may be seen to be self-interested. We expect that everyone who participates in the project does so with the goal of making life better for its users.
+### 이해 충돌 (Conflicts of interest)
+리더는 고용 관계나 다른 프로젝트 참여로 인해 이해 충돌이 생길 수 있음을 인식하고, 자기 이익으로 비칠 수 있는 결정에서는 스스로를 배제하거나 위임해야 합니다. 모든 참여자는 사용자들의 삶을 더 낫게 만들겠다는 목적을 가져야 합니다.
 
-When in doubt, ask for a second opinion. Perceived conflicts of interest are important to address; as a leader, act to ensure that decisions are credible even if they must occasionally be unpopular, difficult or favourable to the interests of one group over another.
+의심스러울 때는 제3자의 의견을 구해야 합니다. 이해 충돌이 의심될 때는 이를 명확히 하는 것이 중요합니다. 리더는 결정이 불인기 있거나 어렵더라도, 공정성과 신뢰를 잃지 않도록 행동해야 합니다.
 
-This Code is not exhaustive or complete. It is not a rulebook; it serves to distil our common understanding of a collaborative, shared environment and goals. We expect it to be followed in spirit as much as in the letter.
+이 행동 강령은 완전하거나 절대적인 규칙집이 아닙니다. 우리의 협력적이고 공유된 환경, 그리고 공동의 목표에 대한 공통된 이해를 정리한 것입니다. 이 강령은 글자 그대로뿐 아니라, 그 정신에 따라 지켜져야 합니다.
 
-### Taking Conflict to the Community Council
-If a member of the community feels there has been a violation of the Ubuntu Code of Conduct, they are encouraged to bring it forward to the Community Council for review. For additional information on this process, please visit Conflict Resolution.
+### 커뮤니티 협의회에 문제 제기하기 (Taking Conflict to the Community Council)
+커뮤니티 구성원이 이 행동 강령이 위반되었다고 느낀다면, 커뮤니티 협의회에 검토를 요청할 수 있습니다. 이 절차에 대한 자세한 내용은 ‘Conflict Resolution(갈등 해결)’ 문서를 참고하세요.
 
-_The Ubuntu Code of Conduct is licensed under the [Creative Commons Attribution-Share Alike 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license. You may re-use it for your own project, and modify it as you wish, just please allow others to use your modifications and give credit to the Ubuntu Project!_
+_이 문서는 [크리에이티브 커먼즈 저작자표시-동일조건변경허락 3.0 라이선스](https://creativecommons.org/licenses/by-sa/3.0/deed.ko)에 따라 배포됩니다._  
+_이 문서를 다른 프로젝트에 자유롭게 활용할 수 있으며, 수정할 수 있습니다. 단, 수정한 버전도 동일한 조건으로 공유하고, Ubuntu 프로젝트에 저작권을 표시해야 합니다._
