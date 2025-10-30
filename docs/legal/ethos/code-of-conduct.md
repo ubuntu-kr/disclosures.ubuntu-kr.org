@@ -1,12 +1,12 @@
-# Ubuntu Code of Conduct v2.0
+# Ubuntu 행동 강령 v2.0
 
-Ubuntu is about showing humanity to one another: the word itself captures the spirit of being human.
+Ubuntu는 서로에게 인간적인 존중과 배려를 보여주는 것에 관한 것입니다. 이 단어 자체가 ‘인간다움’의 정신을 담고 있습니다.
 
-We want a productive, happy and agile community that can welcome new ideas in a complex field, improve every process every year, and foster collaboration between groups with very different needs, interests and skills.
+우리는 복잡한 환경 속에서도 새로운 아이디어를 환영하고, 매년 모든 과정을 개선하며, 서로 다른 필요와 관심사, 기술을 가진 사람들 간의 협력을 촉진하는 생산적이고 즐겁고 유연한 커뮤니티를 지향합니다.
 
-We gain strength from diversity, and actively seek participation from those who enhance it. This code of conduct exists to ensure that diverse groups collaborate to mutual advantage and enjoyment. We will challenge prejudice that could jeopardise the participation of any person in the project.
+우리는 다양성에서 힘을 얻으며, 이를 더욱 풍요롭게 만들어줄 사람들의 참여를 적극적으로 환영합니다. 이 행동 강령은 다양한 배경을 가진 사람들이 서로에게 도움이 되고 즐겁게 협력할 수 있도록 하기 위한 것입니다. 우리는 누구든 프로젝트 참여를 방해하거나 위협할 수 있는 편견에 맞서 싸울 것입니다.
 
-The Code of Conduct governs how we behave in public or in private whenever the project will be judged by our actions. We expect it to be honoured by everyone who represents the project officially or informally, claims affiliation with the project, or participates directly.
+이 행동 강령은 우리의 행동이 프로젝트의 평판에 영향을 미칠 수 있는 모든 상황 — 공적인 자리든 사적인 자리든 — 에서 지켜야 할 기준을 제시합니다. 우리는 공식적으로나 비공식적으로 프로젝트를 대표하거나, 프로젝트와의 연관성을 밝히거나, 직접적으로 참여하는 모든 이가 이 강령을 존중하고 따르기를 기대합니다.
 
 ## We strive to
 ### Be considerate
