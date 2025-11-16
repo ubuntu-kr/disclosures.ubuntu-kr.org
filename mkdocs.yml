@@ -58,8 +58,9 @@ nav:
       - organizers/gen5.md
       - organizers/gen6.md
       - organizers/gen7.md
-  - 회의록:
+  - 회의록/공고:
       - meetings/index.md
+      - meetings/election-2025/index.md
       - meetings/ega20251116/index.md
       - meetings/ega20251115/index.md
       - meetings/rga2025/index.md
