@@ -11,59 +11,60 @@ repo_url: https://github.com/ubuntu-kr/disclosures.ubuntu-kr.org
 repo_name: ubuntu-kr/disclosures.ubuntu-kr.org
 contact_email: contact@ubuntu-kr.org
 theme:
-    name: null
-    custom_dir: 'theme_ubuntu/'
-    locale: ko
-    static_templates:
-      - "search_index.json"
+  name: null
+  custom_dir: "theme_ubuntu/"
+  locale: ko
+  static_templates:
+    - "search_index.json"
 plugins:
-    - search
+  - search
 nav:
   - 홈: index.md
-  - 정관/세칙/행동강령: 
-    - legal/index.md
-    - 행동강령 및 관습:
-      - legal/ethos/index.md
-      - legal/ethos/code-of-conduct.md
-      - legal/ethos/diversity.md
-      - legal/ethos/mission.md
-    - 정관:
-      - legal/articles-of-incorporation/index.md
-      - legal/articles-of-incorporation/history.md
-    - 선거관리규약:
-      - legal/election-bylaw/index.md
-      - legal/election-bylaw/history.md
-    - 회비규정:
-      - legal/membership-fee-regulation/index.md
-      - legal/membership-fee-regulation/history.md
-  - 개인정보처리방침: 
-    - privacy-policy/index.md
-    - privacy-policy/online.md
-    - privacy-policy/uck23.md
-    - privacy-policy/uck24.md
-    - privacy-policy/uck25.md
-  - 회계자료: 
-    - finance/index.md
-    - "2024":
-      - finance/2024/index.md
-    - "2023":
-      - finance/2023/index.md
-    - "2022":
-      - finance/2022/index.md
+  - 정관/세칙/행동강령:
+      - legal/index.md
+      - 행동강령 및 관습:
+          - legal/ethos/index.md
+          - legal/ethos/code-of-conduct.md
+          - legal/ethos/diversity.md
+          - legal/ethos/mission.md
+      - 정관:
+          - legal/articles-of-incorporation/index.md
+          - legal/articles-of-incorporation/history.md
+      - 선거관리규약:
+          - legal/election-bylaw/index.md
+          - legal/election-bylaw/history.md
+      - 회비규정:
+          - legal/membership-fee-regulation/index.md
+          - legal/membership-fee-regulation/history.md
+  - 개인정보처리방침:
+      - privacy-policy/index.md
+      - privacy-policy/online.md
+      - privacy-policy/uck23.md
+      - privacy-policy/uck24.md
+      - privacy-policy/uck25.md
+  - 회계자료:
+      - finance/index.md
+      - "2024":
+          - finance/2024/index.md
+      - "2023":
+          - finance/2023/index.md
+      - "2022":
+          - finance/2022/index.md
   - 운영진:
-    - organizers/index.md
-    - organizers/gen2.md
-    - organizers/gen3.md
-    - organizers/gen4.md
-    - organizers/gen5.md
-    - organizers/gen6.md
-    - organizers/gen7.md
-  - 회의록: 
-    - meetings/index.md
-    - meetings/rga2025/index.md
-    - meetings/rga2024/index.md
-    - meetings/ega20231222/index.md
-    - meetings/ega20231011/index.md
-    - meetings/ega20230918/index.md
-    - meetings/rga2023/index.md
+      - organizers/index.md
+      - organizers/gen2.md
+      - organizers/gen3.md
+      - organizers/gen4.md
+      - organizers/gen5.md
+      - organizers/gen6.md
+      - organizers/gen7.md
+  - 회의록:
+      - meetings/index.md
+      - meetings/ega20251115/index.md
+      - meetings/rga2025/index.md
+      - meetings/rga2024/index.md
+      - meetings/ega20231222/index.md
+      - meetings/ega20231011/index.md
+      - meetings/ega20230918/index.md
+      - meetings/rga2023/index.md
   - ubuntu-kr.org: https://ubuntu-kr.org
