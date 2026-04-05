@@ -22,6 +22,8 @@
 | 윤정민 | Event Organizer | lego37yoon@outlook.com | [~lego37yoon-l](https://launchpad.net/~lego37yoon-l) | paperbox | . | 2024. 02. 22. 합류 | 정회원 |
 | 이용현 | Event Organizer | dldydgus1995@naver.com | [~yonghyun-yi](https://launchpad.net/~yonghyun-yi) | dldydgus1995 | . | 2024. 02. 22. 합류 2024. 11. 05. 운영진 활동 종료 | 준회원 (11. 05. 이후) (정회원 기간 02. 22. ~ 11. 05.) |
 | 임상빈 | Event Organizer | mcpe9869@gmail.com | [~vinylstage](https://launchpad.net/~vinylstage) | 98sangbin | . | 2024. 10. 04. 합류 | 정회원 |
+| 황인아 | Event Organizer | inahwang@ubuntu-kr.org | [~offina](https://launchpad.net/~offina) | inahwang | . | 2025. 08.25. 합류 | 정회원 |
+| 임한 | Event Organizer | 007limhan@ubuntu-kr.org | [~haniscloud](https://launchpad.net/~haniscloud) | imhan | . | 2025. 09. 01. 합류 | 정회원 |
 
 
 ## Public Relations & Partnerships
