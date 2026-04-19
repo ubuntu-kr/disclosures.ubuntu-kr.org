@@ -18,6 +18,9 @@ theme:
     - "search_index.json"
 plugins:
   - search
+extra_javascript:
+  - path: "https://loopback.social/banner.js"
+    defer: true
 nav:
   - 홈: index.md
   - 정관/세칙/행동강령:
