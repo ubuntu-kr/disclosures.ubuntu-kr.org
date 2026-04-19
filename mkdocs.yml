@@ -22,7 +22,7 @@ extra_javascript:
   - path: "https://loopback.social/banner.js"
     defer: true
 extra_css:
-  - "loopback/styles.css"
+  - "loopback/loopback-ui.css"
 nav:
   - 홈: index.md
   - 정관/세칙/행동강령:
