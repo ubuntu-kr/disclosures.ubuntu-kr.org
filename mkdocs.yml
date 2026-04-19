@@ -21,6 +21,8 @@ plugins:
 extra_javascript:
   - path: "https://loopback.social/banner.js"
     defer: true
+extra_css:
+  - "loopback/styles.css"
 nav:
   - 홈: index.md
   - 정관/세칙/행동강령:
