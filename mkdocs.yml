@@ -23,6 +23,7 @@ extra_javascript:
     defer: true
 extra_css:
   - "loopback/loopback-ui.css"
+  - "style.css"
 nav:
   - 홈: index.md
   - 정관/세칙/행동강령:
