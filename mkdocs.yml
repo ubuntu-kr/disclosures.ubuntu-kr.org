@@ -21,6 +21,8 @@ plugins:
 extra_javascript:
   - path: "https://loopback.social/banner.js"
     defer: true
+  - path: "index.js"
+    defer: false
 extra_css:
   - "loopback/loopback-ui.css"
   - "style.css"

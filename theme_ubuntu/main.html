@@ -109,31 +109,35 @@
             {% endif %}
         </div>
         <aside class="l-docs__sidebar">
-            <nav class="p-side-navigation--raw-html is-sticky" id="drawer" aria-label="Table of contents">
+            <nav id="drawer" class="p-side-navigation--raw-html is-sticky is-drawer-collapsed is-drawer-hidden" aria-label="Table of contents">
                 <div class="u-hide--large p-strip is-shallow">
                     <div class="u-fixed-width">
-                        <a href="#drawer" class="p-side-navigation__toggle js-drawer-toggle" aria-controls="drawer">
-                            하위 문서 및 목차
-                        </a>
+                        <button id="side-nav-opener" class="p-side-navigation__toggle js-drawer-toggle" aria-controls="drawer" aria-expanded="false">
+                            <span>하위 문서 및 목차</span>
+                        </button>
                     </div>
                 </div>
-
-                <div class="p-side-navigation__overlay js-drawer-toggle" aria-controls="drawer"></div>
+                
+                <div class="p-side-navigation__overlay js-drawer-toggle" aria-controls="drawer" aria-expanded="false"></div>
 
                 <div class="p-side-navigation__drawer">
-                    <div class="p-side-navigation__drawer-header">
-                        <a href="#" class="p-side-navigation__toggle--in-drawer js-drawer-toggle"
-                            aria-controls="drawer">
-                            하위 문서 및 목차
-                        </a>
+                    <div class="p-strip is-shallow">
+                        <div class="p-side-navigation__drawer-header">
+                            <button id="side-nav-closer"        
+                                class="p-side-navigation__toggle--in-drawer js-drawer-toggle"
+                                aria-controls="drawer" aria-expanded="false">
+                                하위 문서 및 목차
+                            </a>
+                        </div>
                     </div>
+                    
                     <h3>하위 문서</h3>
                     {% for nav_item in nav %}
                     {% if nav_item.active %}
                     {% if nav_item.children %}
-                    <ul>
+                    <ul class="p-side-navigation__list">
                         {% for nav_item in nav_item.children %}
-                        <li>
+                        <li class="p-side-navigation__item">
                             {% if nav_item.children %}
                             <a>{{ nav_item.title }}</a>
                             <ul>
