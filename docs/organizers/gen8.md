@@ -7,7 +7,7 @@
 | 이름 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 | 정관상 회원 구분 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 문준상 | 대표(Representative) | mun.js@aol.com | [~moon-js](https://launchpad.net/~moon-js) | junmoon | . | . | 대표(운영위원) |
-| 한영빈 | 고문(Advisor) | youngbin@ubuntu-kr.org | [~sukso96100](https://launchpad.net/~sukso96100) | sukso96100 | sukso96100 | . | 운영위원(2023-12-22 ~ 2025-12-21) |
+| 한영빈 | 고문(Advisor) | youngbin@ubuntu-kr.org | [~sukso96100](https://launchpad.net/~sukso96100) | sukso96100 | sukso96100 | . | 정회원 |
 | 장태희 | 고문(Advisor) | jang@ubuntu-kr.org | [~jang0913](https://launchpad.net/~jang0913) | janghe11 | janghe11 | . | 준회원 |
 
 ## Event Organizing Team	
@@ -23,7 +23,8 @@
 | 임상빈 | Event Organizer | mcpe9869@gmail.com | [~vinylstage](https://launchpad.net/~vinylstage) | 98sangbin | . | . | 정회원 |
 | 황인아 | Event Organizer | inahwang@ubuntu-kr.org | [~offina](https://launchpad.net/~offina) | inahwang | . | . | 정회원 |
 | 임한 | Event Organizer | 007limhan@ubuntu-kr.org | [~haniscloud](https://launchpad.net/~haniscloud) | imhan | . | . |  운영위원 (2026. 3. 28 ~ 2028. 3. 27.) |
-| 최정민 | Event Organizer | . | . | cjm104174 | . | 2026. 4. 2. 합류 | 정회원 |
+| 최정민 | Event Organizer | cjm2021401@ubuntu-kr.org | [~mayf98](https://launchpad.net/~mayf98) | cjm104174 | . | 2026. 4. 2. 합류 | 정회원 |
+| 권형준 | Event Organizer | . | . | . | . | 2026. 5. 4. 합류 | 정회원 |
 
 
 ## Public Relations & Partnerships
