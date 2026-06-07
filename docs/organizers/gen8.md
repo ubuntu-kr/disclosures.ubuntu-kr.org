@@ -63,5 +63,5 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 이태용 | Event Organizing Team | Event Organizer | tyl1996@naver.com | [~tyl1996](https://launchpad.net/~tyl1996) | tae | . | 2026. 6. 7. 활동 종료 | 준회원 (정회원 기간 2024. 2. 22. ~ 2026. 6. 7.) |
 | 최정민 | Event Organizing Team | Event Organizer | cjm2021401@ubuntu-kr.org | [~mayf98](https://launchpad.net/~mayf98) | cjm104174 | . | 2026. 4. 2. 합류, 2026. 6. 7. 활동 종료 | 준회원 (정회원 기간  4. 2. ~  6. 7.) |
-| 조민성 | Event Organizing Team | Event Organizer | mldd.kor@gmail.com | [~mscho7969](https://launchpad.net/~mscho7969) | mscho7969 | . | . | 준회원 (정회원 기간: ~ 2026. 6. 7.) |
+| 조민성 | Event Organizing Team | Event Organizer | mldd.kor@gmail.com | [~mscho7969](https://launchpad.net/~mscho7969) | mscho7969 | . | 2022. 11. 30. 합류, 2026. 6. 7. 운영진 활동 종료 | 준회원 (정회원 기간: ~ 2026. 6. 7.) |
 | 김영찬 | Community Moderation Team | Mailing Provider | draco@draco.pe.kr | [~draco.kr](https://launchpad.net/~draco.kr) | draco | draco | 2026. 6. 7. 운영진 활동 종료 | 준회원 (정회원 기간: ~ 2026. 6. 7.) |
