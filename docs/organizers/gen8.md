@@ -18,13 +18,13 @@
 | 조민성 | Event Organizer | mldd.kor@gmail.com | [~mscho7969](https://launchpad.net/~mscho7969) | mscho7969 | . | . | 정회원 |
 | 추영욱 | Event Organizer | choo121600@gmail.com | [~choo121600](https://launchpad.net/~choo121600) | choo121600 | . | . | 정회원 |
 | 권소연 | Event Organizer | annkwon1123@gmail.com | [~annkwon1123](https://launchpad.net/~annkwon1123) | annkwon1123 | . | . | 정회원 |
-| 이태용 | Event Organizer | tyl1996@naver.com | [~tyl1996](https://launchpad.net/~tyl1996) | tae | . | . | 정회원 |
 | 윤정민 | Event Organizer | lego37yoon@outlook.com | [~lego37yoon-l](https://launchpad.net/~lego37yoon-l) | paperbox | . | . | 정회원 |
 | 임상빈 | Event Organizer | mcpe9869@gmail.com | [~vinylstage](https://launchpad.net/~vinylstage) | 98sangbin | . | . | 정회원 |
 | 황인아 | Event Organizer | inahwang@ubuntu-kr.org | [~offina](https://launchpad.net/~offina) | inahwang | . | . | 정회원 |
 | 임한 | Event Organizer | 007limhan@ubuntu-kr.org | [~haniscloud](https://launchpad.net/~haniscloud) | imhan | . | . |  운영위원 (2026. 3. 28 ~ 2028. 3. 27.) |
-| 최정민 | Event Organizer | cjm2021401@ubuntu-kr.org | [~mayf98](https://launchpad.net/~mayf98) | cjm104174 | . | 2026. 4. 2. 합류 | 정회원 |
 | 권형준 | Event Organizer | . | . | . | . | 2026. 5. 4. 합류 | 정회원 |
+| 안진석 | Event Organizer | . | . | . | . | 2026. 5. 27. 합류 | 정회원 |
+| 장민석 | Event Organizer | . | . | . | . | 2026. 6. 2. 합류 | 정회원 |
 
 
 ## Public Relations & Partnerships
@@ -54,6 +54,13 @@
 | 이름 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 | 정관상 회원 구분 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 정서원 | IRC Manager | jswlinux@gmail.com | [~jswlinux](https://launchpad.net/~jswlinux) | Seony | Seony | . | 준회원 |
-| 김영찬 | Mailing Provider | draco@draco.pe.kr | [~draco.kr](https://launchpad.net/~draco.kr) | draco | draco | . | 정회원 |
 | 차의서 | Forum Moderator | zeroday0619@ubuntu-kr.org | [~euiseocha](https://launchpad.net/~euiseocha) | zeroday0619 | zeroday0619 | . | 운영위원 (2026. 3. 28 ~ 2028. 3. 27.) |
 | 김세진 | Forum Moderator | siliconsjang@ubuntu-kr.org | [~siliconsjang](https://launchpad.net/~siliconsjang) | siliconsjang | . | 2026. 1. 27. 합류 | 운영위원 (2026. 3. 28 ~ 2028. 3. 27.) |
+
+
+## 활동 종료 운영진
+
+| 이름 | 소속 팀 | 직책 | 이메일 | LaunchPad | 포럼 닉네임 | 위키 닉네임 | 비고 | 정관상 회원 구분 |
+| 이태용 | Event Organizing Team | Event Organizer | tyl1996@naver.com | [~tyl1996](https://launchpad.net/~tyl1996) | tae | . | 2026. 6. 7. 활동 종료 | 준회원 (정회원 기간 2024. 2. 22. ~ 2026. 6. 7.) |
+| 최정민 | Event Organizing Team | Event Organizer | cjm2021401@ubuntu-kr.org | [~mayf98](https://launchpad.net/~mayf98) | cjm104174 | . | 2026. 4. 2. 합류, 2026. 6. 7. 활동 종료 | 준회원 (정회원 기간  4. 2. ~  6. 7.) |
+| 김영찬 | Community Moderation Team | Mailing Provider | draco@draco.pe.kr | [~draco.kr](https://launchpad.net/~draco.kr) | draco | draco | 2026. 6. 7. 운영진 활동 종료 | 준회원 (정회원 기간: ~ 2026. 6. 7.) |
