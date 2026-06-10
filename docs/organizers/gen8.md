@@ -16,7 +16,6 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 한상곤 | Event Organizer | sigmadream@gmail.com | [~sigmadream](https://launchpad.net/~sigmadream) | sigmadream | Sigmadream | . | 정회원 |
 | 추영욱 | Event Organizer | choo121600@gmail.com | [~choo121600](https://launchpad.net/~choo121600) | choo121600 | . | . | 정회원 |
-| 권소연 | Event Organizer | annkwon1123@gmail.com | [~annkwon1123](https://launchpad.net/~annkwon1123) | annkwon1123 | . | . | 정회원 |
 | 윤정민 | Event Organizer | lego37yoon@outlook.com | [~lego37yoon-l](https://launchpad.net/~lego37yoon-l) | paperbox | . | . | 정회원 |
 | 임상빈 | Event Organizer | mcpe9869@gmail.com | [~vinylstage](https://launchpad.net/~vinylstage) | 98sangbin | . | . | 정회원 |
 | 황인아 | Event Organizer | inahwang@ubuntu-kr.org | [~offina](https://launchpad.net/~offina) | inahwang | . | . | 정회원 |
@@ -65,3 +64,6 @@
 | 최정민 | Event Organizing Team | Event Organizer | cjm2021401@ubuntu-kr.org | [~mayf98](https://launchpad.net/~mayf98) | cjm104174 | . | 2026. 4. 2. 합류, 2026. 6. 7. 활동 종료 | 준회원 (정회원 기간  4. 2. ~  6. 7.) |
 | 조민성 | Event Organizing Team | Event Organizer | mldd.kor@gmail.com | [~mscho7969](https://launchpad.net/~mscho7969) | mscho7969 | . | 2022. 11. 30. 합류, 2026. 6. 7. 운영진 활동 종료 | 준회원 (정회원 기간: ~ 2026. 6. 7.) |
 | 김영찬 | Community Moderation Team | Mailing Provider | draco@draco.pe.kr | [~draco.kr](https://launchpad.net/~draco.kr) | draco | draco | 2026. 6. 7. 운영진 활동 종료 | 준회원 (정회원 기간: ~ 2026. 6. 7.) |
+| 권소연 | Event Organizing Team | Event Organizer | annkwon1123@gmail.com | [~annkwon1123](https://launchpad.net/~annkwon1123) | annkwon1123 | . | 2024. 2. 22. 합류, 2026. 6. 10. 운영진 활동 종료 | 준회원 (정회원 기간: ~ 2026. 6. 10.) |
+
+
