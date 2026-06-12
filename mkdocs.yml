@@ -53,6 +53,8 @@ nav:
       - privacy-policy/uck26.md
   - 회계자료:
       - finance/index.md
+      - "2025":
+          - finance/2025/index.md
       - "2024":
           - finance/2024/index.md
       - "2023":
